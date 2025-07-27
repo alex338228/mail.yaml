@@ -1,0 +1,93 @@
+---
+- name: Configure Mail Server (Postfix + Dovecot)
+  hosts: localhost
+  become: true
+
+  vars:
+    fqdn: "mail.dmz.nomad.kz"
+    ip_address: "10.1.20.10"
+    cert_bundle_path: "/opt/fullchain-mail.pem"
+    key_path: "/opt/mail-key.pem"
+    dovecot_ssl_cert: "/etc/ssl/certs/mail.pem"
+    dovecot_ssl_key: "/etc/ssl/private/mail.key"
+
+  tasks:
+
+    - name: Install required packages
+      apt:
+        name:
+          - postfix
+          - dovecot-imapd
+          - dovecot-core
+          - openssl
+        update_cache: yes
+
+    - name: Set FQDN in /etc/hosts
+      lineinfile:
+        path: /etc/hosts
+        line: "{{ ip_address }} {{ fqdn }}"
+        state: present
+
+    - name: Copy TLS certificate and key for Dovecot and Postfix
+      copy:
+        src: "{{ item.src }}"
+        dest: "{{ item.dest }}"
+        owner: root
+        group: root
+        mode: "{{ item.mode }}"
+      loop:
+        - { src: "{{ cert_bundle_path }}", dest: "{{ dovecot_ssl_cert }}", mode: '0644' }
+        - { src: "{{ key_path }}", dest: "{{ dovecot_ssl_key }}", mode: '0600' }
+
+    - name: Configure Postfix main.cf
+      lineinfile:
+        path: /etc/postfix/main.cf
+        create: yes
+        line: "{{ item }}"
+      loop:
+        - "myhostname = {{ fqdn }}"
+        - "mydestination = {{ fqdn }}, localhost.localdomain, localhost"
+        - "inet_interfaces = all"
+        - "inet_protocols = ipv4"
+        - "smtpd_tls_cert_file={{ dovecot_ssl_cert }}"
+        - "smtpd_tls_key_file={{ dovecot_ssl_key }}"
+        - "smtpd_use_tls=yes"
+        - "smtpd_tls_auth_only = yes"
+        - "smtpd_tls_security_level = may"
+        - "smtp_tls_security_level = may"
+        - "smtpd_tls_session_cache_database = btree:${data_directory}/smtpd_scache"
+        - "smtp_tls_session_cache_database = btree:${data_directory}/smtp_scache"
+        - "smtpd_recipient_restrictions=permit_mynetworks,permit_sasl_authenticated,reject_unauth_destination"
+
+    - name: Configure Dovecot TLS
+      blockinfile:
+        path: /etc/dovecot/conf.d/10-ssl.conf
+        marker: "# {mark} ANSIBLE MANAGED TLS CONFIG"
+        block: |
+          ssl = required
+          ssl_cert = <{{ dovecot_ssl_cert }}
+          ssl_key = <{{ dovecot_ssl_key }}
+
+    - name: Enable IMAP and IMAPS listeners in Dovecot
+      blockinfile:
+        path: /etc/dovecot/conf.d/10-master.conf
+        marker: "# {mark} ANSIBLE MANAGED IMAP CONFIG"
+        block: |
+          service imap-login {
+            inet_listener imap {
+              port = 143
+            }
+            inet_listener imaps {
+              port = 993
+              ssl = yes
+            }
+          }
+
+    - name: Restart and enable Postfix and Dovecot
+      systemd:
+        name: "{{ item }}"
+        state: restarted
+        enabled: true
+      loop:
+        - postfix
+        - dovecot
