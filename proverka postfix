@@ -1,0 +1,1 @@
+printf "EHLO localhost\r\nAUTH PLAIN \r\nQUIT\r\n | openssl s_client -starttls smtp -crlf -connect mail.dmz.nomad.kz:25
