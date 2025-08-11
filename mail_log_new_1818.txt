@@ -1,0 +1,924 @@
+2025-08-07T18:24:58.401157+05:00 mail postfix/pickup[2473]: 61D6023F88C: uid=0 from=<root>
+2025-08-07T18:24:58.402656+05:00 mail postfix/cleanup[2481]: 61D6023F88C: message-id=<20250807132458.61D6023F88C@mail.dmz.nomad.kz>
+2025-08-07T18:24:58.402723+05:00 mail postfix/cleanup[2481]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:24:58.402789+05:00 mail postfix/cleanup[2481]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:24:58.402843+05:00 mail postfix/cleanup[2481]: warning: 61D6023F88C: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:24:58.402873+05:00 mail postfix/pickup[2473]: 622A123F88C: uid=0 from=<root>
+2025-08-07T18:24:58.402901+05:00 mail postfix/cleanup[2481]: 622A123F88C: message-id=<20250807132458.622A123F88C@mail.dmz.nomad.kz>
+2025-08-07T18:24:58.402942+05:00 mail postfix/cleanup[2481]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:24:58.402983+05:00 mail postfix/cleanup[2481]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:24:58.403024+05:00 mail postfix/cleanup[2481]: warning: 622A123F88C: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:25:10.232649+05:00 mail postfix/pickup[2473]: 3895F23F8AE: uid=0 from=<root>
+2025-08-07T18:25:10.233070+05:00 mail postfix/cleanup[2481]: 3895F23F8AE: message-id=<20250807132510.3895F23F8AE@mail.dmz.nomad.kz>
+2025-08-07T18:25:10.233190+05:00 mail postfix/cleanup[2481]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:25:10.233247+05:00 mail postfix/cleanup[2481]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:25:10.233272+05:00 mail postfix/cleanup[2481]: warning: 3895F23F8AE: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:25:10.233328+05:00 mail postfix/pickup[2473]: 38E2023F8AE: uid=0 from=<root>
+2025-08-07T18:25:10.233377+05:00 mail postfix/cleanup[2481]: 38E2023F8AE: message-id=<20250807132510.38E2023F8AE@mail.dmz.nomad.kz>
+2025-08-07T18:25:10.233421+05:00 mail postfix/cleanup[2481]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:25:10.233458+05:00 mail postfix/cleanup[2481]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:25:10.233481+05:00 mail postfix/cleanup[2481]: warning: 38E2023F8AE: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:25:10.233570+05:00 mail postfix/pickup[2473]: 38FF723F8AE: uid=0 from=<root>
+2025-08-07T18:25:10.233857+05:00 mail postfix/cleanup[2481]: 38FF723F8AE: message-id=<20250807132510.38FF723F8AE@mail.dmz.nomad.kz>
+2025-08-07T18:25:10.233928+05:00 mail postfix/cleanup[2481]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:25:10.233970+05:00 mail postfix/cleanup[2481]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:25:10.234008+05:00 mail postfix/cleanup[2481]: warning: 38FF723F8AE: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:25:58.282934+05:00 mail postfix/pickup[2473]: 44FA523F8AE: uid=0 from=<root>
+2025-08-07T18:25:58.284493+05:00 mail postfix/cleanup[2481]: 44FA523F8AE: message-id=<20250807132558.44FA523F8AE@mail.dmz.nomad.kz>
+2025-08-07T18:25:58.285182+05:00 mail postfix/cleanup[2481]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:25:58.285238+05:00 mail postfix/cleanup[2481]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:25:58.285289+05:00 mail postfix/cleanup[2481]: warning: 44FA523F8AE: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:25:58.285350+05:00 mail postfix/pickup[2473]: 4555C23F8AE: uid=0 from=<root>
+2025-08-07T18:25:58.285378+05:00 mail postfix/cleanup[2481]: 4555C23F8AE: message-id=<20250807132558.4555C23F8AE@mail.dmz.nomad.kz>
+2025-08-07T18:25:58.285422+05:00 mail postfix/cleanup[2481]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:25:58.285462+05:00 mail postfix/cleanup[2481]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:25:58.285484+05:00 mail postfix/cleanup[2481]: warning: 4555C23F8AE: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:25:58.285532+05:00 mail postfix/pickup[2473]: 4582F23F8AE: uid=0 from=<root>
+2025-08-07T18:25:58.285590+05:00 mail postfix/cleanup[2481]: 4582F23F8AE: message-id=<20250807132558.4582F23F8AE@mail.dmz.nomad.kz>
+2025-08-07T18:25:58.285635+05:00 mail postfix/cleanup[2481]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:25:58.285657+05:00 mail postfix/cleanup[2481]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:25:58.285697+05:00 mail postfix/cleanup[2481]: warning: 4582F23F8AE: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:26:58.298466+05:00 mail postfix/pickup[2473]: 48AAC23F8AE: uid=0 from=<root>
+2025-08-07T18:26:58.299430+05:00 mail postfix/cleanup[2481]: 48AAC23F8AE: message-id=<20250807132658.48AAC23F8AE@mail.dmz.nomad.kz>
+2025-08-07T18:26:58.299518+05:00 mail postfix/cleanup[2481]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:26:58.299570+05:00 mail postfix/cleanup[2481]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:26:58.299594+05:00 mail postfix/cleanup[2481]: warning: 48AAC23F8AE: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:26:58.299687+05:00 mail postfix/pickup[2473]: 490AE23F8AE: uid=0 from=<root>
+2025-08-07T18:26:58.300677+05:00 mail postfix/cleanup[2481]: 490AE23F8AE: message-id=<20250807132658.490AE23F8AE@mail.dmz.nomad.kz>
+2025-08-07T18:26:58.300731+05:00 mail postfix/cleanup[2481]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:26:58.300808+05:00 mail postfix/cleanup[2481]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:26:58.300888+05:00 mail postfix/cleanup[2481]: warning: 490AE23F8AE: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:26:58.301140+05:00 mail postfix/pickup[2473]: 497DC23F8AE: uid=0 from=<root>
+2025-08-07T18:26:58.301373+05:00 mail postfix/cleanup[2481]: 497DC23F8AE: message-id=<20250807132658.497DC23F8AE@mail.dmz.nomad.kz>
+2025-08-07T18:26:58.301488+05:00 mail postfix/cleanup[2481]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:26:58.301554+05:00 mail postfix/cleanup[2481]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:26:58.301588+05:00 mail postfix/cleanup[2481]: warning: 497DC23F8AE: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:27:33.325095+05:00 mail postfix/pickup[2473]: 4F2E823F8C5: uid=0 from=<root>
+2025-08-07T18:27:33.326992+05:00 mail postfix/cleanup[2481]: 4F2E823F8C5: message-id=<20250807132733.4F2E823F8C5@mail.dmz.nomad.kz>
+2025-08-07T18:27:33.327098+05:00 mail postfix/cleanup[2481]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:27:33.327155+05:00 mail postfix/cleanup[2481]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:27:33.327206+05:00 mail postfix/cleanup[2481]: warning: 4F2E823F8C5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:27:33.327273+05:00 mail postfix/pickup[2473]: 4F50E23F8C5: uid=0 from=<root>
+2025-08-07T18:27:33.327339+05:00 mail postfix/cleanup[2481]: 4F50E23F8C5: message-id=<20250807132733.4F50E23F8C5@mail.dmz.nomad.kz>
+2025-08-07T18:27:33.327402+05:00 mail postfix/cleanup[2481]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:27:33.327447+05:00 mail postfix/cleanup[2481]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:27:33.327506+05:00 mail postfix/cleanup[2481]: warning: 4F50E23F8C5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:27:33.327584+05:00 mail postfix/pickup[2473]: 4F7E223F8C5: uid=0 from=<root>
+2025-08-07T18:27:33.327828+05:00 mail postfix/cleanup[2481]: 4F7E223F8C5: message-id=<20250807132733.4F7E223F8C5@mail.dmz.nomad.kz>
+2025-08-07T18:27:33.327895+05:00 mail postfix/cleanup[2481]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:27:33.327944+05:00 mail postfix/cleanup[2481]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:27:33.327991+05:00 mail postfix/cleanup[2481]: warning: 4F7E223F8C5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:27:33.328056+05:00 mail postfix/pickup[2473]: 4F94523F8C5: uid=0 from=<root>
+2025-08-07T18:27:33.328121+05:00 mail postfix/cleanup[2481]: 4F94523F8C5: message-id=<20250807132733.4F94523F8C5@mail.dmz.nomad.kz>
+2025-08-07T18:27:33.328186+05:00 mail postfix/cleanup[2481]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:27:33.328261+05:00 mail postfix/cleanup[2481]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:27:33.328316+05:00 mail postfix/cleanup[2481]: warning: 4F94523F8C5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:27:58.352285+05:00 mail postfix/pickup[2473]: 55E4C23F8C5: uid=0 from=<root>
+2025-08-07T18:27:58.352632+05:00 mail postfix/cleanup[2481]: 55E4C23F8C5: message-id=<20250807132758.55E4C23F8C5@mail.dmz.nomad.kz>
+2025-08-07T18:27:58.352701+05:00 mail postfix/cleanup[2481]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:27:58.352793+05:00 mail postfix/cleanup[2481]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:27:58.352823+05:00 mail postfix/cleanup[2481]: warning: 55E4C23F8C5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:27:58.352850+05:00 mail postfix/pickup[2473]: 560A623F8C5: uid=0 from=<root>
+2025-08-07T18:27:58.352896+05:00 mail postfix/cleanup[2481]: 560A623F8C5: message-id=<20250807132758.560A623F8C5@mail.dmz.nomad.kz>
+2025-08-07T18:27:58.352955+05:00 mail postfix/cleanup[2481]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:27:58.352995+05:00 mail postfix/cleanup[2481]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:27:58.353018+05:00 mail postfix/cleanup[2481]: warning: 560A623F8C5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:27:58.353044+05:00 mail postfix/pickup[2473]: 5621623F8C5: uid=0 from=<root>
+2025-08-07T18:27:58.353103+05:00 mail postfix/cleanup[2481]: 5621623F8C5: message-id=<20250807132758.5621623F8C5@mail.dmz.nomad.kz>
+2025-08-07T18:27:58.353146+05:00 mail postfix/cleanup[2481]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:27:58.353170+05:00 mail postfix/cleanup[2481]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:27:58.353193+05:00 mail postfix/cleanup[2481]: warning: 5621623F8C5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:27:58.353239+05:00 mail postfix/pickup[2473]: 5637C23F8C5: uid=0 from=<root>
+2025-08-07T18:27:58.353421+05:00 mail postfix/cleanup[2481]: 5637C23F8C5: message-id=<20250807132758.5637C23F8C5@mail.dmz.nomad.kz>
+2025-08-07T18:27:58.353473+05:00 mail postfix/cleanup[2481]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:27:58.353496+05:00 mail postfix/cleanup[2481]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:27:58.353543+05:00 mail postfix/cleanup[2481]: warning: 5637C23F8C5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:28:04.605403+05:00 mail postfix/postfix-script[2733]: refreshing the Postfix mail system
+2025-08-07T18:28:04.611645+05:00 mail postfix/master[1169]: reload -- version 3.7.11, configuration /etc/postfix
+2025-08-07T18:28:04.630441+05:00 mail postfix/cleanup[2740]: error: open /etc/postfix/ldap/virtual_alias_maps: No such file or directory
+2025-08-07T18:28:04.632307+05:00 mail postfix/pickup[2739]: 9A48023F8C5: uid=0 from=<root>
+2025-08-07T18:28:04.640307+05:00 mail postfix/trivial-rewrite[2741]: error: open /etc/postfix/ldap/virtual_alias_domains: No such file or directory
+2025-08-07T18:28:04.642098+05:00 mail postfix/cleanup[2740]: 9A48023F8C5: message-id=<20250807132804.9A48023F8C5@mail.dmz.nomad.kz>
+2025-08-07T18:28:04.642188+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps is unavailable. open /etc/postfix/ldap/virtual_alias_maps: No such file or directory
+2025-08-07T18:28:04.642257+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:28:04.642284+05:00 mail postfix/cleanup[2740]: warning: 9A48023F8C5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:28:04.642518+05:00 mail postfix/pickup[2739]: 9CD5A23F8C5: uid=0 from=<root>
+2025-08-07T18:28:04.642874+05:00 mail postfix/cleanup[2740]: 9CD5A23F8C5: message-id=<20250807132804.9CD5A23F8C5@mail.dmz.nomad.kz>
+2025-08-07T18:28:04.642945+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps is unavailable. open /etc/postfix/ldap/virtual_alias_maps: No such file or directory
+2025-08-07T18:28:04.642992+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:28:04.643027+05:00 mail postfix/cleanup[2740]: warning: 9CD5A23F8C5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:28:04.643257+05:00 mail postfix/pickup[2739]: 9D04423F8C5: uid=0 from=<root>
+2025-08-07T18:28:04.643582+05:00 mail postfix/cleanup[2740]: 9D04423F8C5: message-id=<20250807132804.9D04423F8C5@mail.dmz.nomad.kz>
+2025-08-07T18:28:04.643665+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps is unavailable. open /etc/postfix/ldap/virtual_alias_maps: No such file or directory
+2025-08-07T18:28:04.643720+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:28:04.643784+05:00 mail postfix/cleanup[2740]: warning: 9D04423F8C5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:28:04.643983+05:00 mail postfix/pickup[2739]: 9D31E23F8C5: uid=0 from=<root>
+2025-08-07T18:28:04.644335+05:00 mail postfix/cleanup[2740]: 9D31E23F8C5: message-id=<20250807132804.9D31E23F8C5@mail.dmz.nomad.kz>
+2025-08-07T18:28:04.644388+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps is unavailable. open /etc/postfix/ldap/virtual_alias_maps: No such file or directory
+2025-08-07T18:28:04.644421+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:28:04.644446+05:00 mail postfix/cleanup[2740]: warning: 9D31E23F8C5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:28:06.189303+05:00 mail postfix/pickup[2739]: 2E1F323F8CA: uid=0 from=<root>
+2025-08-07T18:28:06.190449+05:00 mail postfix/cleanup[2740]: 2E1F323F8CA: message-id=<20250807132806.2E1F323F8CA@mail.dmz.nomad.kz>
+2025-08-07T18:28:06.190544+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps is unavailable. open /etc/postfix/ldap/virtual_alias_maps: No such file or directory
+2025-08-07T18:28:06.190581+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:28:06.190615+05:00 mail postfix/cleanup[2740]: warning: 2E1F323F8CA: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:28:06.190927+05:00 mail postfix/pickup[2739]: 2E8ED23F8CA: uid=0 from=<root>
+2025-08-07T18:28:06.191417+05:00 mail postfix/cleanup[2740]: 2E8ED23F8CA: message-id=<20250807132806.2E8ED23F8CA@mail.dmz.nomad.kz>
+2025-08-07T18:28:06.191465+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps is unavailable. open /etc/postfix/ldap/virtual_alias_maps: No such file or directory
+2025-08-07T18:28:06.191498+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:28:06.191548+05:00 mail postfix/cleanup[2740]: warning: 2E8ED23F8CA: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:28:06.191790+05:00 mail postfix/pickup[2739]: 2ECBE23F8CA: uid=0 from=<root>
+2025-08-07T18:28:06.192235+05:00 mail postfix/cleanup[2740]: 2ECBE23F8CA: message-id=<20250807132806.2ECBE23F8CA@mail.dmz.nomad.kz>
+2025-08-07T18:28:06.192284+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps is unavailable. open /etc/postfix/ldap/virtual_alias_maps: No such file or directory
+2025-08-07T18:28:06.192357+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:28:06.192423+05:00 mail postfix/cleanup[2740]: warning: 2ECBE23F8CA: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:28:06.192618+05:00 mail postfix/pickup[2739]: 2EFF823F8CA: uid=0 from=<root>
+2025-08-07T18:28:06.193015+05:00 mail postfix/cleanup[2740]: 2EFF823F8CA: message-id=<20250807132806.2EFF823F8CA@mail.dmz.nomad.kz>
+2025-08-07T18:28:06.193090+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps is unavailable. open /etc/postfix/ldap/virtual_alias_maps: No such file or directory
+2025-08-07T18:28:06.193157+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:28:06.193192+05:00 mail postfix/cleanup[2740]: warning: 2EFF823F8CA: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:28:06.193642+05:00 mail postfix/pickup[2739]: 2F2FD23F8CA: uid=0 from=<root>
+2025-08-07T18:28:06.193927+05:00 mail postfix/cleanup[2740]: 2F2FD23F8CA: message-id=<20250807132806.2F2FD23F8CA@mail.dmz.nomad.kz>
+2025-08-07T18:28:06.194012+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps is unavailable. open /etc/postfix/ldap/virtual_alias_maps: No such file or directory
+2025-08-07T18:28:06.194062+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:28:06.194109+05:00 mail postfix/cleanup[2740]: warning: 2F2FD23F8CA: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:29:04.434949+05:00 mail postfix/pickup[2739]: 6A08823F8CA: uid=0 from=<root>
+2025-08-07T18:29:04.435628+05:00 mail postfix/cleanup[2740]: 6A08823F8CA: message-id=<20250807132904.6A08823F8CA@mail.dmz.nomad.kz>
+2025-08-07T18:29:04.435828+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps is unavailable. open /etc/postfix/ldap/virtual_alias_maps: No such file or directory
+2025-08-07T18:29:04.435928+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:29:04.435999+05:00 mail postfix/cleanup[2740]: warning: 6A08823F8CA: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:29:04.436162+05:00 mail postfix/pickup[2739]: 6A69623F8CA: uid=0 from=<root>
+2025-08-07T18:29:04.436445+05:00 mail postfix/cleanup[2740]: 6A69623F8CA: message-id=<20250807132904.6A69623F8CA@mail.dmz.nomad.kz>
+2025-08-07T18:29:04.436524+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps is unavailable. open /etc/postfix/ldap/virtual_alias_maps: No such file or directory
+2025-08-07T18:29:04.436546+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:29:04.436596+05:00 mail postfix/cleanup[2740]: warning: 6A69623F8CA: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:29:04.436843+05:00 mail postfix/pickup[2739]: 6AA0A23F8CA: uid=0 from=<root>
+2025-08-07T18:29:04.437068+05:00 mail postfix/cleanup[2740]: 6AA0A23F8CA: message-id=<20250807132904.6AA0A23F8CA@mail.dmz.nomad.kz>
+2025-08-07T18:29:04.437110+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps is unavailable. open /etc/postfix/ldap/virtual_alias_maps: No such file or directory
+2025-08-07T18:29:04.437131+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:29:04.437156+05:00 mail postfix/cleanup[2740]: warning: 6AA0A23F8CA: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:29:04.437354+05:00 mail postfix/pickup[2739]: 6AC1023F8CA: uid=0 from=<root>
+2025-08-07T18:29:04.437577+05:00 mail postfix/cleanup[2740]: 6AC1023F8CA: message-id=<20250807132904.6AC1023F8CA@mail.dmz.nomad.kz>
+2025-08-07T18:29:04.437641+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps is unavailable. open /etc/postfix/ldap/virtual_alias_maps: No such file or directory
+2025-08-07T18:29:04.437663+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:29:04.437711+05:00 mail postfix/cleanup[2740]: warning: 6AC1023F8CA: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:29:04.437906+05:00 mail postfix/pickup[2739]: 6AE3C23F8CA: uid=0 from=<root>
+2025-08-07T18:29:04.438151+05:00 mail postfix/cleanup[2740]: 6AE3C23F8CA: message-id=<20250807132904.6AE3C23F8CA@mail.dmz.nomad.kz>
+2025-08-07T18:29:04.438192+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps is unavailable. open /etc/postfix/ldap/virtual_alias_maps: No such file or directory
+2025-08-07T18:29:04.438217+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:29:04.438237+05:00 mail postfix/cleanup[2740]: warning: 6AE3C23F8CA: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:30:04.492766+05:00 mail postfix/pickup[2739]: 7828523F6AE: uid=0 from=<root>
+2025-08-07T18:30:04.493248+05:00 mail postfix/cleanup[2740]: 7828523F6AE: message-id=<20250807133004.7828523F6AE@mail.dmz.nomad.kz>
+2025-08-07T18:30:04.493379+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps is unavailable. open /etc/postfix/ldap/virtual_alias_maps: No such file or directory
+2025-08-07T18:30:04.493426+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:30:04.493460+05:00 mail postfix/cleanup[2740]: warning: 7828523F6AE: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:30:04.493496+05:00 mail postfix/pickup[2739]: 7864923F6AE: uid=0 from=<root>
+2025-08-07T18:30:04.493567+05:00 mail postfix/cleanup[2740]: 7864923F6AE: message-id=<20250807133004.7864923F6AE@mail.dmz.nomad.kz>
+2025-08-07T18:30:04.493606+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps is unavailable. open /etc/postfix/ldap/virtual_alias_maps: No such file or directory
+2025-08-07T18:30:04.493674+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:30:04.493771+05:00 mail postfix/cleanup[2740]: warning: 7864923F6AE: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:30:04.493808+05:00 mail postfix/pickup[2739]: 7883823F6AE: uid=0 from=<root>
+2025-08-07T18:30:04.494019+05:00 mail postfix/cleanup[2740]: 7883823F6AE: message-id=<20250807133004.7883823F6AE@mail.dmz.nomad.kz>
+2025-08-07T18:30:04.494109+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps is unavailable. open /etc/postfix/ldap/virtual_alias_maps: No such file or directory
+2025-08-07T18:30:04.494146+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:30:04.494207+05:00 mail postfix/cleanup[2740]: warning: 7883823F6AE: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:30:04.494274+05:00 mail postfix/pickup[2739]: 78A4D23F6AE: uid=0 from=<root>
+2025-08-07T18:30:04.494907+05:00 mail postfix/cleanup[2740]: 78A4D23F6AE: message-id=<20250807133004.78A4D23F6AE@mail.dmz.nomad.kz>
+2025-08-07T18:30:04.495005+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps is unavailable. open /etc/postfix/ldap/virtual_alias_maps: No such file or directory
+2025-08-07T18:30:04.495070+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:30:04.495129+05:00 mail postfix/cleanup[2740]: warning: 78A4D23F6AE: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:30:04.495194+05:00 mail postfix/pickup[2739]: 78CCD23F6AE: uid=0 from=<root>
+2025-08-07T18:30:04.495235+05:00 mail postfix/cleanup[2740]: 78CCD23F6AE: message-id=<20250807133004.78CCD23F6AE@mail.dmz.nomad.kz>
+2025-08-07T18:30:04.495296+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps is unavailable. open /etc/postfix/ldap/virtual_alias_maps: No such file or directory
+2025-08-07T18:30:04.495454+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:30:04.495546+05:00 mail postfix/cleanup[2740]: warning: 78CCD23F6AE: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:30:11.983742+05:00 mail postfix/pickup[2739]: F013223F8CA: uid=0 from=<root>
+2025-08-07T18:30:11.984688+05:00 mail postfix/cleanup[2740]: F013223F8CA: message-id=<20250807133011.F013223F8CA@mail.dmz.nomad.kz>
+2025-08-07T18:30:11.984780+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps is unavailable. open /etc/postfix/ldap/virtual_alias_maps: No such file or directory
+2025-08-07T18:30:11.984807+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:30:11.984847+05:00 mail postfix/cleanup[2740]: warning: F013223F8CA: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:30:11.984890+05:00 mail postfix/pickup[2739]: F042D23F8CA: uid=0 from=<root>
+2025-08-07T18:30:11.984933+05:00 mail postfix/cleanup[2740]: F042D23F8CA: message-id=<20250807133011.F042D23F8CA@mail.dmz.nomad.kz>
+2025-08-07T18:30:11.984957+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps is unavailable. open /etc/postfix/ldap/virtual_alias_maps: No such file or directory
+2025-08-07T18:30:11.984977+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:30:11.985035+05:00 mail postfix/cleanup[2740]: warning: F042D23F8CA: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:30:11.985061+05:00 mail postfix/pickup[2739]: F056523F8CA: uid=0 from=<root>
+2025-08-07T18:30:11.985101+05:00 mail postfix/cleanup[2740]: F056523F8CA: message-id=<20250807133011.F056523F8CA@mail.dmz.nomad.kz>
+2025-08-07T18:30:11.985125+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps is unavailable. open /etc/postfix/ldap/virtual_alias_maps: No such file or directory
+2025-08-07T18:30:11.985168+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:30:11.985206+05:00 mail postfix/cleanup[2740]: warning: F056523F8CA: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:30:11.985245+05:00 mail postfix/pickup[2739]: F06D423F8CA: uid=0 from=<root>
+2025-08-07T18:30:11.985299+05:00 mail postfix/cleanup[2740]: F06D423F8CA: message-id=<20250807133011.F06D423F8CA@mail.dmz.nomad.kz>
+2025-08-07T18:30:11.985339+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps is unavailable. open /etc/postfix/ldap/virtual_alias_maps: No such file or directory
+2025-08-07T18:30:11.985360+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:30:11.985383+05:00 mail postfix/cleanup[2740]: warning: F06D423F8CA: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:30:11.985442+05:00 mail postfix/pickup[2739]: F083323F8CA: uid=0 from=<root>
+2025-08-07T18:30:11.985479+05:00 mail postfix/cleanup[2740]: F083323F8CA: message-id=<20250807133011.F083323F8CA@mail.dmz.nomad.kz>
+2025-08-07T18:30:11.985519+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps is unavailable. open /etc/postfix/ldap/virtual_alias_maps: No such file or directory
+2025-08-07T18:30:11.985555+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:30:11.985576+05:00 mail postfix/cleanup[2740]: warning: F083323F8CA: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:30:11.985600+05:00 mail postfix/pickup[2739]: F097E23F8CA: uid=0 from=<root>
+2025-08-07T18:30:11.985640+05:00 mail postfix/cleanup[2740]: F097E23F8CA: message-id=<20250807133011.F097E23F8CA@mail.dmz.nomad.kz>
+2025-08-07T18:30:11.985661+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps is unavailable. open /etc/postfix/ldap/virtual_alias_maps: No such file or directory
+2025-08-07T18:30:11.985682+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:30:11.985703+05:00 mail postfix/cleanup[2740]: warning: F097E23F8CA: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:31:05.010927+05:00 mail postfix/pickup[2739]: 01E9723F8CA: uid=0 from=<root>
+2025-08-07T18:31:05.011349+05:00 mail postfix/cleanup[2740]: 01E9723F8CA: message-id=<20250807133105.01E9723F8CA@mail.dmz.nomad.kz>
+2025-08-07T18:31:05.011438+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps is unavailable. open /etc/postfix/ldap/virtual_alias_maps: No such file or directory
+2025-08-07T18:31:05.011483+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:31:05.011530+05:00 mail postfix/cleanup[2740]: warning: 01E9723F8CA: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:31:05.011609+05:00 mail postfix/pickup[2739]: 02AE723F8CA: uid=0 from=<root>
+2025-08-07T18:31:05.011650+05:00 mail postfix/cleanup[2740]: 02AE723F8CA: message-id=<20250807133105.02AE723F8CA@mail.dmz.nomad.kz>
+2025-08-07T18:31:05.011743+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps is unavailable. open /etc/postfix/ldap/virtual_alias_maps: No such file or directory
+2025-08-07T18:31:05.011783+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:31:05.011817+05:00 mail postfix/cleanup[2740]: warning: 02AE723F8CA: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:31:05.011886+05:00 mail postfix/pickup[2739]: 02CC723F8CA: uid=0 from=<root>
+2025-08-07T18:31:05.011952+05:00 mail postfix/cleanup[2740]: 02CC723F8CA: message-id=<20250807133105.02CC723F8CA@mail.dmz.nomad.kz>
+2025-08-07T18:31:05.012037+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps is unavailable. open /etc/postfix/ldap/virtual_alias_maps: No such file or directory
+2025-08-07T18:31:05.012097+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:31:05.012136+05:00 mail postfix/cleanup[2740]: warning: 02CC723F8CA: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:31:05.012198+05:00 mail postfix/pickup[2739]: 02EEB23F8CA: uid=0 from=<root>
+2025-08-07T18:31:05.012751+05:00 mail postfix/cleanup[2740]: 02EEB23F8CA: message-id=<20250807133105.02EEB23F8CA@mail.dmz.nomad.kz>
+2025-08-07T18:31:05.012806+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps is unavailable. open /etc/postfix/ldap/virtual_alias_maps: No such file or directory
+2025-08-07T18:31:05.012872+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:31:05.012903+05:00 mail postfix/cleanup[2740]: warning: 02EEB23F8CA: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:31:05.016660+05:00 mail postfix/pickup[2739]: 0403823F8CA: uid=0 from=<root>
+2025-08-07T18:31:05.016866+05:00 mail postfix/cleanup[2740]: 0403823F8CA: message-id=<20250807133105.0403823F8CA@mail.dmz.nomad.kz>
+2025-08-07T18:31:05.016951+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps is unavailable. open /etc/postfix/ldap/virtual_alias_maps: No such file or directory
+2025-08-07T18:31:05.016983+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:31:05.017012+05:00 mail postfix/cleanup[2740]: warning: 0403823F8CA: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:31:05.017150+05:00 mail postfix/pickup[2739]: 0426323F8CA: uid=0 from=<root>
+2025-08-07T18:31:05.017304+05:00 mail postfix/cleanup[2740]: 0426323F8CA: message-id=<20250807133105.0426323F8CA@mail.dmz.nomad.kz>
+2025-08-07T18:31:05.017383+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps is unavailable. open /etc/postfix/ldap/virtual_alias_maps: No such file or directory
+2025-08-07T18:31:05.017414+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:31:05.017444+05:00 mail postfix/cleanup[2740]: warning: 0426323F8CA: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:32:05.076731+05:00 mail postfix/pickup[2739]: 129B323F8CA: uid=0 from=<root>
+2025-08-07T18:32:05.077298+05:00 mail postfix/cleanup[2740]: 129B323F8CA: message-id=<20250807133205.129B323F8CA@mail.dmz.nomad.kz>
+2025-08-07T18:32:05.077411+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps is unavailable. open /etc/postfix/ldap/virtual_alias_maps: No such file or directory
+2025-08-07T18:32:05.077541+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:32:05.077631+05:00 mail postfix/cleanup[2740]: warning: 129B323F8CA: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:32:05.077704+05:00 mail postfix/pickup[2739]: 12CDE23F8CA: uid=0 from=<root>
+2025-08-07T18:32:05.077743+05:00 mail postfix/cleanup[2740]: 12CDE23F8CA: message-id=<20250807133205.12CDE23F8CA@mail.dmz.nomad.kz>
+2025-08-07T18:32:05.077851+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps is unavailable. open /etc/postfix/ldap/virtual_alias_maps: No such file or directory
+2025-08-07T18:32:05.077894+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:32:05.077933+05:00 mail postfix/cleanup[2740]: warning: 12CDE23F8CA: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:32:05.078002+05:00 mail postfix/pickup[2739]: 12FCA23F8CA: uid=0 from=<root>
+2025-08-07T18:32:05.078223+05:00 mail postfix/cleanup[2740]: 12FCA23F8CA: message-id=<20250807133205.12FCA23F8CA@mail.dmz.nomad.kz>
+2025-08-07T18:32:05.078329+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps is unavailable. open /etc/postfix/ldap/virtual_alias_maps: No such file or directory
+2025-08-07T18:32:05.078443+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:32:05.078622+05:00 mail postfix/cleanup[2740]: warning: 12FCA23F8CA: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:32:05.078784+05:00 mail postfix/pickup[2739]: 1333523F8CA: uid=0 from=<root>
+2025-08-07T18:32:05.078966+05:00 mail postfix/cleanup[2740]: 1333523F8CA: message-id=<20250807133205.1333523F8CA@mail.dmz.nomad.kz>
+2025-08-07T18:32:05.079062+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps is unavailable. open /etc/postfix/ldap/virtual_alias_maps: No such file or directory
+2025-08-07T18:32:05.079142+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:32:05.079224+05:00 mail postfix/cleanup[2740]: warning: 1333523F8CA: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:32:05.079326+05:00 mail postfix/pickup[2739]: 1352523F8CA: uid=0 from=<root>
+2025-08-07T18:32:05.079413+05:00 mail postfix/cleanup[2740]: 1352523F8CA: message-id=<20250807133205.1352523F8CA@mail.dmz.nomad.kz>
+2025-08-07T18:32:05.079556+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps is unavailable. open /etc/postfix/ldap/virtual_alias_maps: No such file or directory
+2025-08-07T18:32:05.079708+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:32:05.079830+05:00 mail postfix/cleanup[2740]: warning: 1352523F8CA: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:32:05.079985+05:00 mail postfix/pickup[2739]: 136DF23F8CA: uid=0 from=<root>
+2025-08-07T18:32:05.080082+05:00 mail postfix/cleanup[2740]: 136DF23F8CA: message-id=<20250807133205.136DF23F8CA@mail.dmz.nomad.kz>
+2025-08-07T18:32:05.080162+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps is unavailable. open /etc/postfix/ldap/virtual_alias_maps: No such file or directory
+2025-08-07T18:32:05.080279+05:00 mail postfix/cleanup[2740]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:32:05.080374+05:00 mail postfix/cleanup[2740]: warning: 136DF23F8CA: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:32:41.472720+05:00 mail postfix/postfix-script[2862]: refreshing the Postfix mail system
+2025-08-07T18:32:41.497542+05:00 mail postfix/master[1169]: reload -- version 3.7.11, configuration /etc/postfix
+2025-08-07T18:32:41.507331+05:00 mail postfix/cleanup[2869]: error: open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:32:41.508473+05:00 mail postfix/pickup[2868]: 7C09C23F8CA: uid=0 from=<root>
+2025-08-07T18:32:41.519094+05:00 mail postfix/cleanup[2869]: 7C09C23F8CA: message-id=<20250807133241.7C09C23F8CA@mail.dmz.nomad.kz>
+2025-08-07T18:32:41.519195+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:32:41.519248+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:32:41.519274+05:00 mail postfix/cleanup[2869]: warning: 7C09C23F8CA: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:32:41.519316+05:00 mail postfix/pickup[2868]: 7EBE823F8CA: uid=0 from=<root>
+2025-08-07T18:32:41.519343+05:00 mail postfix/cleanup[2869]: 7EBE823F8CA: message-id=<20250807133241.7EBE823F8CA@mail.dmz.nomad.kz>
+2025-08-07T18:32:41.519385+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:32:41.519438+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:32:41.519475+05:00 mail postfix/cleanup[2869]: warning: 7EBE823F8CA: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:32:41.519634+05:00 mail postfix/pickup[2868]: 7ED3623F8CA: uid=0 from=<root>
+2025-08-07T18:32:41.519798+05:00 mail postfix/cleanup[2869]: 7ED3623F8CA: message-id=<20250807133241.7ED3623F8CA@mail.dmz.nomad.kz>
+2025-08-07T18:32:41.519832+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:32:41.519878+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:32:41.519899+05:00 mail postfix/cleanup[2869]: warning: 7ED3623F8CA: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:32:41.519921+05:00 mail postfix/pickup[2868]: 7EEA323F8CA: uid=0 from=<root>
+2025-08-07T18:32:41.520052+05:00 mail postfix/cleanup[2869]: 7EEA323F8CA: message-id=<20250807133241.7EEA323F8CA@mail.dmz.nomad.kz>
+2025-08-07T18:32:41.520104+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:32:41.520132+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:32:41.520150+05:00 mail postfix/cleanup[2869]: warning: 7EEA323F8CA: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:32:41.520239+05:00 mail postfix/pickup[2868]: 7EFF223F8CA: uid=0 from=<root>
+2025-08-07T18:32:41.520390+05:00 mail postfix/cleanup[2869]: 7EFF223F8CA: message-id=<20250807133241.7EFF223F8CA@mail.dmz.nomad.kz>
+2025-08-07T18:32:41.520425+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:32:41.520454+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:32:41.520478+05:00 mail postfix/cleanup[2869]: warning: 7EFF223F8CA: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:32:41.520599+05:00 mail postfix/pickup[2868]: 7F14123F8CA: uid=0 from=<root>
+2025-08-07T18:32:41.520738+05:00 mail postfix/cleanup[2869]: 7F14123F8CA: message-id=<20250807133241.7F14123F8CA@mail.dmz.nomad.kz>
+2025-08-07T18:32:41.520802+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:32:41.520877+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:32:41.520946+05:00 mail postfix/cleanup[2869]: warning: 7F14123F8CA: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:33:17.932731+05:00 mail postfix/pickup[2868]: E3A3B23F9D5: uid=0 from=<root>
+2025-08-07T18:33:17.933124+05:00 mail postfix/cleanup[2869]: E3A3B23F9D5: message-id=<20250807133317.E3A3B23F9D5@mail.dmz.nomad.kz>
+2025-08-07T18:33:17.933209+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:33:17.933241+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:33:17.933282+05:00 mail postfix/cleanup[2869]: warning: E3A3B23F9D5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:33:17.933323+05:00 mail postfix/pickup[2868]: E3BFE23F9D5: uid=0 from=<root>
+2025-08-07T18:33:17.933365+05:00 mail postfix/cleanup[2869]: E3BFE23F9D5: message-id=<20250807133317.E3BFE23F9D5@mail.dmz.nomad.kz>
+2025-08-07T18:33:17.933387+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:33:17.933447+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:33:17.933470+05:00 mail postfix/cleanup[2869]: warning: E3BFE23F9D5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:33:17.933498+05:00 mail postfix/pickup[2868]: E3D3523F9D5: uid=0 from=<root>
+2025-08-07T18:33:17.933519+05:00 mail postfix/cleanup[2869]: E3D3523F9D5: message-id=<20250807133317.E3D3523F9D5@mail.dmz.nomad.kz>
+2025-08-07T18:33:17.933543+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:33:17.933566+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:33:17.933588+05:00 mail postfix/cleanup[2869]: warning: E3D3523F9D5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:33:17.933612+05:00 mail postfix/pickup[2868]: E3E6423F9D5: uid=0 from=<root>
+2025-08-07T18:33:17.933861+05:00 mail postfix/cleanup[2869]: E3E6423F9D5: message-id=<20250807133317.E3E6423F9D5@mail.dmz.nomad.kz>
+2025-08-07T18:33:17.933933+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:33:17.933957+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:33:17.933984+05:00 mail postfix/cleanup[2869]: warning: E3E6423F9D5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:33:17.934027+05:00 mail postfix/pickup[2868]: E3FDB23F9D5: uid=0 from=<root>
+2025-08-07T18:33:17.934052+05:00 mail postfix/cleanup[2869]: E3FDB23F9D5: message-id=<20250807133317.E3FDB23F9D5@mail.dmz.nomad.kz>
+2025-08-07T18:33:17.934111+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:33:17.934150+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:33:17.934171+05:00 mail postfix/cleanup[2869]: warning: E3FDB23F9D5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:33:17.934307+05:00 mail postfix/pickup[2868]: E410B23F9D5: uid=0 from=<root>
+2025-08-07T18:33:17.934411+05:00 mail postfix/cleanup[2869]: E410B23F9D5: message-id=<20250807133317.E410B23F9D5@mail.dmz.nomad.kz>
+2025-08-07T18:33:17.934451+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:33:17.934477+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:33:17.934521+05:00 mail postfix/cleanup[2869]: warning: E410B23F9D5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:33:17.934670+05:00 mail postfix/pickup[2868]: E428C23F9D5: uid=0 from=<root>
+2025-08-07T18:33:17.934802+05:00 mail postfix/cleanup[2869]: E428C23F9D5: message-id=<20250807133317.E428C23F9D5@mail.dmz.nomad.kz>
+2025-08-07T18:33:17.934833+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:33:17.934853+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:33:17.934897+05:00 mail postfix/cleanup[2869]: warning: E428C23F9D5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:33:41.955119+05:00 mail postfix/pickup[2868]: E912223F9D5: uid=0 from=<root>
+2025-08-07T18:33:41.955796+05:00 mail postfix/cleanup[2869]: E912223F9D5: message-id=<20250807133341.E912223F9D5@mail.dmz.nomad.kz>
+2025-08-07T18:33:41.955933+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:33:41.956000+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:33:41.956049+05:00 mail postfix/cleanup[2869]: warning: E912223F9D5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:33:41.956159+05:00 mail postfix/pickup[2868]: E936023F9D5: uid=0 from=<root>
+2025-08-07T18:33:41.956234+05:00 mail postfix/cleanup[2869]: E936023F9D5: message-id=<20250807133341.E936023F9D5@mail.dmz.nomad.kz>
+2025-08-07T18:33:41.956310+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:33:41.956361+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:33:41.956414+05:00 mail postfix/cleanup[2869]: warning: E936023F9D5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:33:41.956465+05:00 mail postfix/pickup[2868]: E94F023F9D5: uid=0 from=<root>
+2025-08-07T18:33:41.956536+05:00 mail postfix/cleanup[2869]: E94F023F9D5: message-id=<20250807133341.E94F023F9D5@mail.dmz.nomad.kz>
+2025-08-07T18:33:41.956629+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:33:41.956681+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:33:41.956726+05:00 mail postfix/cleanup[2869]: warning: E94F023F9D5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:33:41.956791+05:00 mail postfix/pickup[2868]: E96A323F9D5: uid=0 from=<root>
+2025-08-07T18:33:41.956862+05:00 mail postfix/cleanup[2869]: E96A323F9D5: message-id=<20250807133341.E96A323F9D5@mail.dmz.nomad.kz>
+2025-08-07T18:33:41.956934+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:33:41.956984+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:33:41.957037+05:00 mail postfix/cleanup[2869]: warning: E96A323F9D5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:33:41.957228+05:00 mail postfix/pickup[2868]: E983023F9D5: uid=0 from=<root>
+2025-08-07T18:33:41.957360+05:00 mail postfix/cleanup[2869]: E983023F9D5: message-id=<20250807133341.E983023F9D5@mail.dmz.nomad.kz>
+2025-08-07T18:33:41.957449+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:33:41.957501+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:33:41.957546+05:00 mail postfix/cleanup[2869]: warning: E983023F9D5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:33:41.957618+05:00 mail postfix/pickup[2868]: E99B923F9D5: uid=0 from=<root>
+2025-08-07T18:33:41.957689+05:00 mail postfix/cleanup[2869]: E99B923F9D5: message-id=<20250807133341.E99B923F9D5@mail.dmz.nomad.kz>
+2025-08-07T18:33:41.957740+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:33:41.957801+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:33:41.957900+05:00 mail postfix/cleanup[2869]: warning: E99B923F9D5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:33:41.957976+05:00 mail postfix/pickup[2868]: E9B2D23F9D5: uid=0 from=<root>
+2025-08-07T18:33:41.958026+05:00 mail postfix/cleanup[2869]: E9B2D23F9D5: message-id=<20250807133341.E9B2D23F9D5@mail.dmz.nomad.kz>
+2025-08-07T18:33:41.958097+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:33:41.958151+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:33:41.958196+05:00 mail postfix/cleanup[2869]: warning: E9B2D23F9D5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:34:42.018726+05:00 mail postfix/pickup[2868]: 046CB23F9D5: uid=0 from=<root>
+2025-08-07T18:34:42.019349+05:00 mail postfix/cleanup[2869]: 046CB23F9D5: message-id=<20250807133442.046CB23F9D5@mail.dmz.nomad.kz>
+2025-08-07T18:34:42.019453+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:34:42.019574+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:34:42.019674+05:00 mail postfix/cleanup[2869]: warning: 046CB23F9D5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:34:42.019741+05:00 mail postfix/pickup[2868]: 04A6723F9D5: uid=0 from=<root>
+2025-08-07T18:34:42.019798+05:00 mail postfix/cleanup[2869]: 04A6723F9D5: message-id=<20250807133442.04A6723F9D5@mail.dmz.nomad.kz>
+2025-08-07T18:34:42.019853+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:34:42.019902+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:34:42.019960+05:00 mail postfix/cleanup[2869]: warning: 04A6723F9D5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:34:42.020015+05:00 mail postfix/pickup[2868]: 04C1D23F9D5: uid=0 from=<root>
+2025-08-07T18:34:42.020068+05:00 mail postfix/cleanup[2869]: 04C1D23F9D5: message-id=<20250807133442.04C1D23F9D5@mail.dmz.nomad.kz>
+2025-08-07T18:34:42.020122+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:34:42.020183+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:34:42.020296+05:00 mail postfix/cleanup[2869]: warning: 04C1D23F9D5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:34:42.020369+05:00 mail postfix/pickup[2868]: 04D7D23F9D5: uid=0 from=<root>
+2025-08-07T18:34:42.020423+05:00 mail postfix/cleanup[2869]: 04D7D23F9D5: message-id=<20250807133442.04D7D23F9D5@mail.dmz.nomad.kz>
+2025-08-07T18:34:42.020482+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:34:42.020547+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:34:42.020664+05:00 mail postfix/cleanup[2869]: warning: 04D7D23F9D5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:34:42.020738+05:00 mail postfix/pickup[2868]: 04EC923F9D5: uid=0 from=<root>
+2025-08-07T18:34:42.020819+05:00 mail postfix/cleanup[2869]: 04EC923F9D5: message-id=<20250807133442.04EC923F9D5@mail.dmz.nomad.kz>
+2025-08-07T18:34:42.020904+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:34:42.020958+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:34:42.021053+05:00 mail postfix/cleanup[2869]: warning: 04EC923F9D5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:34:42.021176+05:00 mail postfix/pickup[2868]: 0501323F9D5: uid=0 from=<root>
+2025-08-07T18:34:42.021266+05:00 mail postfix/cleanup[2869]: 0501323F9D5: message-id=<20250807133442.0501323F9D5@mail.dmz.nomad.kz>
+2025-08-07T18:34:42.021343+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:34:42.021394+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:34:42.021499+05:00 mail postfix/cleanup[2869]: warning: 0501323F9D5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:34:42.021604+05:00 mail postfix/pickup[2868]: 0518523F9D5: uid=0 from=<root>
+2025-08-07T18:34:42.021718+05:00 mail postfix/cleanup[2869]: 0518523F9D5: message-id=<20250807133442.0518523F9D5@mail.dmz.nomad.kz>
+2025-08-07T18:34:42.021844+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:34:42.021907+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:34:42.021957+05:00 mail postfix/cleanup[2869]: warning: 0518523F9D5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:35:42.056701+05:00 mail postfix/pickup[2868]: 0DC0323F9D5: uid=0 from=<root>
+2025-08-07T18:35:42.057127+05:00 mail postfix/cleanup[2869]: 0DC0323F9D5: message-id=<20250807133542.0DC0323F9D5@mail.dmz.nomad.kz>
+2025-08-07T18:35:42.057218+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:35:42.057317+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:35:42.057379+05:00 mail postfix/cleanup[2869]: warning: 0DC0323F9D5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:35:42.057454+05:00 mail postfix/pickup[2868]: 0DDE423F9D5: uid=0 from=<root>
+2025-08-07T18:35:42.057511+05:00 mail postfix/cleanup[2869]: 0DDE423F9D5: message-id=<20250807133542.0DDE423F9D5@mail.dmz.nomad.kz>
+2025-08-07T18:35:42.057579+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:35:42.057675+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:35:42.057725+05:00 mail postfix/cleanup[2869]: warning: 0DDE423F9D5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:35:42.057778+05:00 mail postfix/pickup[2868]: 0DF1A23F9D5: uid=0 from=<root>
+2025-08-07T18:35:42.057827+05:00 mail postfix/cleanup[2869]: 0DF1A23F9D5: message-id=<20250807133542.0DF1A23F9D5@mail.dmz.nomad.kz>
+2025-08-07T18:35:42.057876+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:35:42.057924+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:35:42.057976+05:00 mail postfix/cleanup[2869]: warning: 0DF1A23F9D5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:35:42.058025+05:00 mail postfix/pickup[2868]: 0E04923F9D5: uid=0 from=<root>
+2025-08-07T18:35:42.058095+05:00 mail postfix/cleanup[2869]: 0E04923F9D5: message-id=<20250807133542.0E04923F9D5@mail.dmz.nomad.kz>
+2025-08-07T18:35:42.058147+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:35:42.058201+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:35:42.058247+05:00 mail postfix/cleanup[2869]: warning: 0E04923F9D5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:35:42.058295+05:00 mail postfix/pickup[2868]: 0E1DC23F9D5: uid=0 from=<root>
+2025-08-07T18:35:42.058343+05:00 mail postfix/cleanup[2869]: 0E1DC23F9D5: message-id=<20250807133542.0E1DC23F9D5@mail.dmz.nomad.kz>
+2025-08-07T18:35:42.058388+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:35:42.058508+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:35:42.058559+05:00 mail postfix/cleanup[2869]: warning: 0E1DC23F9D5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:35:42.058607+05:00 mail postfix/pickup[2868]: 0E31323F9D5: uid=0 from=<root>
+2025-08-07T18:35:42.058678+05:00 mail postfix/cleanup[2869]: 0E31323F9D5: message-id=<20250807133542.0E31323F9D5@mail.dmz.nomad.kz>
+2025-08-07T18:35:42.058731+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:35:42.058797+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:35:42.058846+05:00 mail postfix/cleanup[2869]: warning: 0E31323F9D5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:35:42.058918+05:00 mail postfix/pickup[2868]: 0E45C23F9D5: uid=0 from=<root>
+2025-08-07T18:35:42.058968+05:00 mail postfix/cleanup[2869]: 0E45C23F9D5: message-id=<20250807133542.0E45C23F9D5@mail.dmz.nomad.kz>
+2025-08-07T18:35:42.059036+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:35:42.059082+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:35:42.059129+05:00 mail postfix/cleanup[2869]: warning: 0E45C23F9D5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:36:42.108578+05:00 mail postfix/pickup[2868]: 1A65523F9D5: uid=0 from=<root>
+2025-08-07T18:36:42.110026+05:00 mail postfix/cleanup[2869]: 1A65523F9D5: message-id=<20250807133642.1A65523F9D5@mail.dmz.nomad.kz>
+2025-08-07T18:36:42.110227+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:36:42.110318+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:36:42.110726+05:00 mail postfix/cleanup[2869]: warning: 1A65523F9D5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:36:42.110910+05:00 mail postfix/pickup[2868]: 1A90823F9D5: uid=0 from=<root>
+2025-08-07T18:36:42.111058+05:00 mail postfix/cleanup[2869]: 1A90823F9D5: message-id=<20250807133642.1A90823F9D5@mail.dmz.nomad.kz>
+2025-08-07T18:36:42.111257+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:36:42.111338+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:36:42.111392+05:00 mail postfix/cleanup[2869]: warning: 1A90823F9D5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:36:42.111485+05:00 mail postfix/pickup[2868]: 1AAA123F9D5: uid=0 from=<root>
+2025-08-07T18:36:42.111541+05:00 mail postfix/cleanup[2869]: 1AAA123F9D5: message-id=<20250807133642.1AAA123F9D5@mail.dmz.nomad.kz>
+2025-08-07T18:36:42.111593+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:36:42.111643+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:36:42.111740+05:00 mail postfix/cleanup[2869]: warning: 1AAA123F9D5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:36:42.111793+05:00 mail postfix/pickup[2868]: 1ACFC23F9D5: uid=0 from=<root>
+2025-08-07T18:36:42.111845+05:00 mail postfix/cleanup[2869]: 1ACFC23F9D5: message-id=<20250807133642.1ACFC23F9D5@mail.dmz.nomad.kz>
+2025-08-07T18:36:42.111897+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:36:42.111946+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:36:42.111994+05:00 mail postfix/cleanup[2869]: warning: 1ACFC23F9D5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:36:42.112047+05:00 mail postfix/pickup[2868]: 1AEA723F9D5: uid=0 from=<root>
+2025-08-07T18:36:42.112138+05:00 mail postfix/cleanup[2869]: 1AEA723F9D5: message-id=<20250807133642.1AEA723F9D5@mail.dmz.nomad.kz>
+2025-08-07T18:36:42.112198+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:36:42.112246+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:36:42.112295+05:00 mail postfix/cleanup[2869]: warning: 1AEA723F9D5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:36:42.112346+05:00 mail postfix/pickup[2868]: 1B1BF23F9D5: uid=0 from=<root>
+2025-08-07T18:36:42.112421+05:00 mail postfix/cleanup[2869]: 1B1BF23F9D5: message-id=<20250807133642.1B1BF23F9D5@mail.dmz.nomad.kz>
+2025-08-07T18:36:42.112497+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:36:42.112550+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:36:42.112598+05:00 mail postfix/cleanup[2869]: warning: 1B1BF23F9D5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:36:42.112654+05:00 mail postfix/pickup[2868]: 1B37023F9D5: uid=0 from=<root>
+2025-08-07T18:36:42.112703+05:00 mail postfix/cleanup[2869]: 1B37023F9D5: message-id=<20250807133642.1B37023F9D5@mail.dmz.nomad.kz>
+2025-08-07T18:36:42.112754+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:36:42.112824+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:36:42.112876+05:00 mail postfix/cleanup[2869]: warning: 1B37023F9D5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:37:42.173677+05:00 mail postfix/pickup[2868]: 2A4F023F9D5: uid=0 from=<root>
+2025-08-07T18:37:42.177027+05:00 mail postfix/cleanup[2869]: 2A4F023F9D5: message-id=<20250807133742.2A4F023F9D5@mail.dmz.nomad.kz>
+2025-08-07T18:37:42.177123+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:37:42.177158+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:37:42.177202+05:00 mail postfix/cleanup[2869]: warning: 2A4F023F9D5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:37:42.177228+05:00 mail postfix/pickup[2868]: 2A6ED23F9D5: uid=0 from=<root>
+2025-08-07T18:37:42.177297+05:00 mail postfix/cleanup[2869]: 2A6ED23F9D5: message-id=<20250807133742.2A6ED23F9D5@mail.dmz.nomad.kz>
+2025-08-07T18:37:42.177323+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:37:42.177363+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:37:42.177386+05:00 mail postfix/cleanup[2869]: warning: 2A6ED23F9D5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:37:42.177411+05:00 mail postfix/pickup[2868]: 2A87323F9D5: uid=0 from=<root>
+2025-08-07T18:37:42.177436+05:00 mail postfix/cleanup[2869]: 2A87323F9D5: message-id=<20250807133742.2A87323F9D5@mail.dmz.nomad.kz>
+2025-08-07T18:37:42.177479+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:37:42.177498+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:37:42.177520+05:00 mail postfix/cleanup[2869]: warning: 2A87323F9D5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:37:42.177563+05:00 mail postfix/pickup[2868]: 2A9C023F9D5: uid=0 from=<root>
+2025-08-07T18:37:42.177610+05:00 mail postfix/cleanup[2869]: 2A9C023F9D5: message-id=<20250807133742.2A9C023F9D5@mail.dmz.nomad.kz>
+2025-08-07T18:37:42.177632+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:37:42.177654+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:37:42.177689+05:00 mail postfix/cleanup[2869]: warning: 2A9C023F9D5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:37:42.177714+05:00 mail postfix/pickup[2868]: 2AB0723F9D5: uid=0 from=<root>
+2025-08-07T18:37:42.177741+05:00 mail postfix/cleanup[2869]: 2AB0723F9D5: message-id=<20250807133742.2AB0723F9D5@mail.dmz.nomad.kz>
+2025-08-07T18:37:42.177812+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:37:42.177848+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:37:42.177882+05:00 mail postfix/cleanup[2869]: warning: 2AB0723F9D5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:37:42.177918+05:00 mail postfix/pickup[2868]: 2B2C623F9D5: uid=0 from=<root>
+2025-08-07T18:37:42.177955+05:00 mail postfix/cleanup[2869]: 2B2C623F9D5: message-id=<20250807133742.2B2C623F9D5@mail.dmz.nomad.kz>
+2025-08-07T18:37:42.178028+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:37:42.178063+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:37:42.178099+05:00 mail postfix/cleanup[2869]: warning: 2B2C623F9D5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:37:42.178136+05:00 mail postfix/pickup[2868]: 2B42923F9D5: uid=0 from=<root>
+2025-08-07T18:37:42.178171+05:00 mail postfix/cleanup[2869]: 2B42923F9D5: message-id=<20250807133742.2B42923F9D5@mail.dmz.nomad.kz>
+2025-08-07T18:37:42.178209+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf is unavailable. open /etc/postfix/ldap/virtual_alias_maps.cf: No such file or directory
+2025-08-07T18:37:42.178259+05:00 mail postfix/cleanup[2869]: warning: ldap:/etc/postfix/ldap/virtual_alias_maps.cf lookup error for "mail000@mail.dmz.nomad.kz"
+2025-08-07T18:37:42.178290+05:00 mail postfix/cleanup[2869]: warning: 2B42923F9D5: virtual_alias_maps map lookup problem for mail000@mail.dmz.nomad.kz -- message not accepted, try again later
+2025-08-07T18:38:20.360543+05:00 mail postfix/postfix-script[2928]: stopping the Postfix mail system
+2025-08-07T18:38:20.365380+05:00 mail postfix/master[1169]: terminating on signal 15
+2025-08-07T18:38:20.729921+05:00 mail postfix/postfix-script[3046]: warning: not owned by root: /etc/postfix/./ldap
+2025-08-07T18:38:20.733533+05:00 mail postfix/postfix-script[3047]: warning: not owned by root: /etc/postfix/./ldap/smtpd_sender_login_maps.cf
+2025-08-07T18:38:20.737158+05:00 mail postfix/postfix-script[3048]: warning: not owned by root: /etc/postfix/./ldap/virtual_mailbox_maps.cf
+2025-08-07T18:38:20.740881+05:00 mail postfix/postfix-script[3049]: warning: not owned by root: /etc/postfix/./ldap/virtual_alias_domains.cf
+2025-08-07T18:38:20.744662+05:00 mail postfix/postfix-script[3050]: warning: not owned by root: /etc/postfix/./ldap/virtual_uid_maps.cf
+2025-08-07T18:38:20.870951+05:00 mail postfix/postfix-script[3233]: starting the Postfix mail system
+2025-08-07T18:38:20.877531+05:00 mail postfix/master[3235]: daemon started -- version 3.7.11, configuration /etc/postfix
+2025-08-07T18:38:20.899631+05:00 mail postfix/pickup[3236]: DB87023F83C: uid=0 from=<root>
+2025-08-07T18:38:20.910412+05:00 mail postfix/cleanup[3239]: DB87023F83C: message-id=<20250807133820.DB87023F83C@mail.dmz.nomad.kz>
+2025-08-07T18:38:20.921658+05:00 mail postfix/qmgr[3237]: DB87023F83C: from=<root@mail.dmz.nomad.kz>, size=422, nrcpt=1 (queue active)
+2025-08-07T18:38:20.921911+05:00 mail postfix/pickup[3236]: E0F0D23F83F: uid=0 from=<root>
+2025-08-07T18:38:20.932949+05:00 mail postfix/trivial-rewrite[3240]: warning: do not list domain mail.dmz.nomad.kz in BOTH mydestination and virtual_mailbox_domains
+2025-08-07T18:38:20.933501+05:00 mail postfix/cleanup[3239]: E0F0D23F83F: message-id=<20250807133820.E0F0D23F83F@mail.dmz.nomad.kz>
+2025-08-07T18:38:20.936245+05:00 mail postfix/qmgr[3237]: E0F0D23F83F: from=<root@mail.dmz.nomad.kz>, size=422, nrcpt=1 (queue active)
+2025-08-07T18:38:20.936544+05:00 mail postfix/pickup[3236]: E49F623F86F: uid=0 from=<root>
+2025-08-07T18:38:20.936935+05:00 mail postfix/cleanup[3239]: E49F623F86F: message-id=<20250807133820.E49F623F86F@mail.dmz.nomad.kz>
+2025-08-07T18:38:20.938930+05:00 mail postfix/qmgr[3237]: E49F623F86F: from=<root@mail.dmz.nomad.kz>, size=422, nrcpt=1 (queue active)
+2025-08-07T18:38:20.939196+05:00 mail postfix/pickup[3236]: E545A23F6AE: uid=0 from=<root>
+2025-08-07T18:38:20.939526+05:00 mail postfix/cleanup[3239]: E545A23F6AE: message-id=<20250807133820.E545A23F6AE@mail.dmz.nomad.kz>
+2025-08-07T18:38:20.941796+05:00 mail postfix/qmgr[3237]: E545A23F6AE: from=<root@mail.dmz.nomad.kz>, size=422, nrcpt=1 (queue active)
+2025-08-07T18:38:20.941946+05:00 mail postfix/pickup[3236]: E5F0B23F87F: uid=0 from=<root>
+2025-08-07T18:38:20.942502+05:00 mail postfix/cleanup[3241]: E5F0B23F87F: message-id=<20250807133820.E5F0B23F87F@mail.dmz.nomad.kz>
+2025-08-07T18:38:20.954333+05:00 mail postfix/qmgr[3237]: E5F0B23F87F: from=<root@mail.dmz.nomad.kz>, size=422, nrcpt=1 (queue active)
+2025-08-07T18:38:20.954850+05:00 mail postfix/pickup[3236]: E910E23F8AE: uid=0 from=<root>
+2025-08-07T18:38:20.955057+05:00 mail postfix/cleanup[3239]: E910E23F8AE: message-id=<20250807133820.E910E23F8AE@mail.dmz.nomad.kz>
+2025-08-07T18:38:20.957685+05:00 mail postfix/qmgr[3237]: E910E23F8AE: from=<root@mail.dmz.nomad.kz>, size=422, nrcpt=1 (queue active)
+2025-08-07T18:38:20.957919+05:00 mail postfix/pickup[3236]: E9D6F23F8BB: uid=0 from=<root>
+2025-08-07T18:38:20.958379+05:00 mail postfix/cleanup[3241]: E9D6F23F8BB: message-id=<20250807133820.E9D6F23F8BB@mail.dmz.nomad.kz>
+2025-08-07T18:38:20.959373+05:00 mail postfix/local[3242]: DB87023F83C: to=<mail000@mail.dmz.nomad.kz>, relay=local, delay=943, delays=943/0.02/0/0.02, dsn=5.1.1, status=bounced (unknown user: "mail000")
+2025-08-07T18:38:20.960766+05:00 mail postfix/local[3243]: E0F0D23F83F: to=<mail000@mail.dmz.nomad.kz>, relay=local, delay=791, delays=791/0.01/0/0.01, dsn=5.1.1, status=bounced (unknown user: "mail000")
+2025-08-07T18:38:20.963418+05:00 mail postfix/qmgr[3237]: E9D6F23F8BB: from=<root@mail.dmz.nomad.kz>, size=422, nrcpt=1 (queue active)
+2025-08-07T18:38:20.964307+05:00 mail postfix/cleanup[3239]: EADDC23F8C8: message-id=<20250807133820.EADDC23F8C8@mail.dmz.nomad.kz>
+2025-08-07T18:38:20.965479+05:00 mail postfix/bounce[3244]: DB87023F83C: sender non-delivery notification: EADDC23F8C8
+2025-08-07T18:38:20.965639+05:00 mail postfix/qmgr[3237]: EADDC23F8C8: from=<>, size=2337, nrcpt=1 (queue active)
+2025-08-07T18:38:20.966221+05:00 mail postfix/trivial-rewrite[3240]: warning: do not list domain mail.dmz.nomad.kz in BOTH mydestination and virtual_mailbox_domains
+2025-08-07T18:38:20.966361+05:00 mail postfix/qmgr[3237]: DB87023F83C: removed
+2025-08-07T18:38:20.968834+05:00 mail postfix/cleanup[3241]: EBF9A23F83C: message-id=<20250807133820.EBF9A23F83C@mail.dmz.nomad.kz>
+2025-08-07T18:38:20.969734+05:00 mail postfix/bounce[3244]: E0F0D23F83F: sender non-delivery notification: EBF9A23F83C
+2025-08-07T18:38:20.969808+05:00 mail postfix/qmgr[3237]: EBF9A23F83C: from=<>, size=2337, nrcpt=1 (queue active)
+2025-08-07T18:38:20.969847+05:00 mail postfix/qmgr[3237]: E0F0D23F83F: removed
+2025-08-07T18:38:20.970838+05:00 mail postfix/local[3242]: E49F623F86F: to=<mail000@mail.dmz.nomad.kz>, relay=local, delay=489, delays=489/0.02/0/0.01, dsn=5.1.1, status=bounced (unknown user: "mail000")
+2025-08-07T18:38:20.971924+05:00 mail postfix/local[3246]: EADDC23F8C8: to=<root@mail.dmz.nomad.kz>, relay=local, delay=0.01, delays=0/0/0/0, dsn=2.0.0, status=sent (delivered to maildir)
+2025-08-07T18:38:20.971996+05:00 mail postfix/qmgr[3237]: EADDC23F8C8: removed
+2025-08-07T18:38:20.973384+05:00 mail postfix/local[3243]: E545A23F6AE: to=<mail000@mail.dmz.nomad.kz>, relay=local, delay=303, delays=303/0.02/0/0.01, dsn=5.1.1, status=bounced (unknown user: "mail000")
+2025-08-07T18:38:20.975042+05:00 mail postfix/cleanup[3239]: ED74D23F8C5: message-id=<20250807133820.ED74D23F8C5@mail.dmz.nomad.kz>
+2025-08-07T18:38:20.975899+05:00 mail postfix/local[3246]: EBF9A23F83C: to=<root@mail.dmz.nomad.kz>, relay=local, delay=0.01, delays=0/0/0/0, dsn=2.0.0, status=sent (delivered to maildir)
+2025-08-07T18:38:20.975976+05:00 mail postfix/qmgr[3237]: EBF9A23F83C: removed
+2025-08-07T18:38:20.976031+05:00 mail postfix/qmgr[3237]: ED74D23F8C5: from=<>, size=2337, nrcpt=1 (queue active)
+2025-08-07T18:38:20.976396+05:00 mail postfix/bounce[3244]: E49F623F86F: sender non-delivery notification: ED74D23F8C5
+2025-08-07T18:38:20.976463+05:00 mail postfix/qmgr[3237]: E49F623F86F: removed
+2025-08-07T18:38:20.977138+05:00 mail postfix/local[3242]: E5F0B23F87F: to=<mail000@mail.dmz.nomad.kz>, relay=local, delay=648, delays=648/0.02/0/0.01, dsn=5.1.1, status=bounced (unknown user: "mail000")
+2025-08-07T18:38:20.977521+05:00 mail postfix/local[3246]: ED74D23F8C5: to=<root@mail.dmz.nomad.kz>, relay=local, delay=0, delays=0/0/0/0, dsn=2.0.0, status=sent (delivered to maildir)
+2025-08-07T18:38:20.977698+05:00 mail postfix/qmgr[3237]: ED74D23F8C5: removed
+2025-08-07T18:38:20.979507+05:00 mail postfix/cleanup[3241]: EE7C723F83C: message-id=<20250807133820.EE7C723F83C@mail.dmz.nomad.kz>
+2025-08-07T18:38:20.979556+05:00 mail postfix/local[3243]: E910E23F8AE: to=<mail000@mail.dmz.nomad.kz>, relay=local, delay=952, delays=952/0.02/0/0.01, dsn=5.1.1, status=bounced (unknown user: "mail000")
+2025-08-07T18:38:20.980120+05:00 mail postfix/bounce[3244]: E545A23F6AE: sender non-delivery notification: EE7C723F83C
+2025-08-07T18:38:20.980187+05:00 mail postfix/qmgr[3237]: EE7C723F83C: from=<>, size=2337, nrcpt=1 (queue active)
+2025-08-07T18:38:20.980240+05:00 mail postfix/qmgr[3237]: E545A23F6AE: removed
+2025-08-07T18:38:20.981126+05:00 mail postfix/local[3242]: E9D6F23F8BB: to=<mail000@mail.dmz.nomad.kz>, relay=local, delay=615, delays=615/0.01/0/0, dsn=5.1.1, status=bounced (unknown user: "mail000")
+2025-08-07T18:38:20.982017+05:00 mail postfix/local[3246]: EE7C723F83C: to=<root@mail.dmz.nomad.kz>, relay=local, delay=0.01, delays=0/0/0/0, dsn=2.0.0, status=sent (delivered to maildir)
+2025-08-07T18:38:20.982079+05:00 mail postfix/qmgr[3237]: EE7C723F83C: removed
+2025-08-07T18:38:20.983035+05:00 mail postfix/cleanup[3239]: EF80523F86F: message-id=<20250807133820.EF80523F86F@mail.dmz.nomad.kz>
+2025-08-07T18:38:20.983909+05:00 mail postfix/bounce[3244]: E5F0B23F87F: sender non-delivery notification: EF80523F86F
+2025-08-07T18:38:20.983991+05:00 mail postfix/qmgr[3237]: E5F0B23F87F: removed
+2025-08-07T18:38:20.984306+05:00 mail postfix/qmgr[3237]: EF80523F86F: from=<>, size=2337, nrcpt=1 (queue active)
+2025-08-07T18:38:20.984375+05:00 mail postfix/cleanup[3241]: EFB3123F8C0: message-id=<20250807133820.EFB3123F8C0@mail.dmz.nomad.kz>
+2025-08-07T18:38:20.985042+05:00 mail postfix/qmgr[3237]: EFB3123F8C0: from=<>, size=2337, nrcpt=1 (queue active)
+2025-08-07T18:38:20.985950+05:00 mail postfix/bounce[3245]: E910E23F8AE: sender non-delivery notification: EFB3123F8C0
+2025-08-07T18:38:20.986379+05:00 mail postfix/local[3243]: EF80523F86F: to=<root@mail.dmz.nomad.kz>, relay=local, delay=0.01, delays=0/0/0/0, dsn=2.0.0, status=sent (delivered to maildir)
+2025-08-07T18:38:20.986459+05:00 mail postfix/local[3242]: EFB3123F8C0: to=<root@mail.dmz.nomad.kz>, relay=local, delay=0, delays=0/0/0/0, dsn=2.0.0, status=sent (delivered to maildir)
+2025-08-07T18:38:20.986567+05:00 mail postfix/qmgr[3237]: EFB3123F8C0: removed
+2025-08-07T18:38:20.986597+05:00 mail postfix/qmgr[3237]: EF80523F86F: removed
+2025-08-07T18:38:20.986642+05:00 mail postfix/qmgr[3237]: E910E23F8AE: removed
+2025-08-07T18:38:20.987099+05:00 mail postfix/cleanup[3239]: F070123F83C: message-id=<20250807133820.F070123F83C@mail.dmz.nomad.kz>
+2025-08-07T18:38:20.987956+05:00 mail postfix/bounce[3244]: E9D6F23F8BB: sender non-delivery notification: F070123F83C
+2025-08-07T18:38:20.988015+05:00 mail postfix/qmgr[3237]: F070123F83C: from=<>, size=2337, nrcpt=1 (queue active)
+2025-08-07T18:38:20.988041+05:00 mail postfix/qmgr[3237]: E9D6F23F8BB: removed
+2025-08-07T18:38:20.988993+05:00 mail postfix/local[3246]: F070123F83C: to=<root@mail.dmz.nomad.kz>, relay=local, delay=0, delays=0/0/0/0, dsn=2.0.0, status=sent (delivered to maildir)
+2025-08-07T18:38:20.989102+05:00 mail postfix/qmgr[3237]: F070123F83C: removed
+2025-08-07T18:38:25.331410+05:00 mail postfix/pickup[3236]: 50D4323F83C: uid=0 from=<root>
+2025-08-07T18:38:25.332077+05:00 mail postfix/cleanup[3241]: 50D4323F83C: message-id=<20250807133825.50D4323F83C@mail.dmz.nomad.kz>
+2025-08-07T18:38:25.334456+05:00 mail postfix/qmgr[3237]: 50D4323F83C: from=<root@mail.dmz.nomad.kz>, size=422, nrcpt=1 (queue active)
+2025-08-07T18:38:25.335230+05:00 mail postfix/trivial-rewrite[3240]: warning: do not list domain mail.dmz.nomad.kz in BOTH mydestination and virtual_mailbox_domains
+2025-08-07T18:38:25.336950+05:00 mail postfix/local[3242]: 50D4323F83C: to=<mail000@mail.dmz.nomad.kz>, relay=local, delay=0.01, delays=0.01/0/0/0, dsn=5.1.1, status=bounced (unknown user: "mail000")
+2025-08-07T18:38:25.339006+05:00 mail postfix/cleanup[3239]: 524C623F83F: message-id=<20250807133825.524C623F83F@mail.dmz.nomad.kz>
+2025-08-07T18:38:25.340988+05:00 mail postfix/bounce[3244]: 50D4323F83C: sender non-delivery notification: 524C623F83F
+2025-08-07T18:38:25.341033+05:00 mail postfix/qmgr[3237]: 524C623F83F: from=<>, size=2337, nrcpt=1 (queue active)
+2025-08-07T18:38:25.341387+05:00 mail postfix/trivial-rewrite[3240]: warning: do not list domain mail.dmz.nomad.kz in BOTH mydestination and virtual_mailbox_domains
+2025-08-07T18:38:25.341477+05:00 mail postfix/qmgr[3237]: 50D4323F83C: removed
+2025-08-07T18:38:25.342611+05:00 mail postfix/local[3243]: 524C623F83F: to=<root@mail.dmz.nomad.kz>, relay=local, delay=0.01, delays=0/0/0/0, dsn=2.0.0, status=sent (delivered to maildir)
+2025-08-07T18:38:25.342712+05:00 mail postfix/qmgr[3237]: 524C623F83F: removed
+2025-08-07T18:44:06.557511+05:00 mail postfix/pickup[3236]: 8806923F83C: uid=0 from=<root>
+2025-08-07T18:44:06.566690+05:00 mail postfix/cleanup[3273]: 8806923F83C: message-id=<20250807134406.8806923F83C@mail.dmz.nomad.kz>
+2025-08-07T18:44:06.575580+05:00 mail postfix/qmgr[3237]: 8806923F83C: from=<root@mail.dmz.nomad.kz>, size=422, nrcpt=1 (queue active)
+2025-08-07T18:44:06.582294+05:00 mail postfix/trivial-rewrite[3274]: warning: do not list domain mail.dmz.nomad.kz in BOTH mydestination and virtual_mailbox_domains
+2025-08-07T18:44:06.593219+05:00 mail postfix/local[3275]: 8806923F83C: to=<mail000@mail.dmz.nomad.kz>, relay=local, delay=0.05, delays=0.03/0.01/0/0.01, dsn=5.1.1, status=bounced (unknown user: "mail000")
+2025-08-07T18:44:06.595406+05:00 mail postfix/cleanup[3273]: 90EF223F83F: message-id=<20250807134406.90EF223F83F@mail.dmz.nomad.kz>
+2025-08-07T18:44:06.596144+05:00 mail postfix/bounce[3276]: 8806923F83C: sender non-delivery notification: 90EF223F83F
+2025-08-07T18:44:06.596212+05:00 mail postfix/qmgr[3237]: 90EF223F83F: from=<>, size=2337, nrcpt=1 (queue active)
+2025-08-07T18:44:06.596800+05:00 mail postfix/trivial-rewrite[3274]: warning: do not list domain mail.dmz.nomad.kz in BOTH mydestination and virtual_mailbox_domains
+2025-08-07T18:44:06.596915+05:00 mail postfix/qmgr[3237]: 8806923F83C: removed
+2025-08-07T18:44:06.598065+05:00 mail postfix/local[3275]: 90EF223F83F: to=<root@mail.dmz.nomad.kz>, relay=local, delay=0, delays=0/0/0/0, dsn=2.0.0, status=sent (delivered to maildir)
+2025-08-07T18:44:06.598130+05:00 mail postfix/qmgr[3237]: 90EF223F83F: removed
+2025-08-07T18:48:00.858850+05:00 mail postfix/postfix-script[3322]: stopping the Postfix mail system
+2025-08-07T18:48:00.861963+05:00 mail postfix/master[3235]: terminating on signal 15
+2025-08-07T18:48:01.201535+05:00 mail postfix/postfix-script[3441]: warning: not owned by root: /etc/postfix/./ldap
+2025-08-07T18:48:01.205113+05:00 mail postfix/postfix-script[3442]: warning: not owned by root: /etc/postfix/./ldap/smtpd_sender_login_maps.cf
+2025-08-07T18:48:01.208876+05:00 mail postfix/postfix-script[3443]: warning: not owned by root: /etc/postfix/./ldap/virtual_mailbox_maps.cf
+2025-08-07T18:48:01.212554+05:00 mail postfix/postfix-script[3444]: warning: not owned by root: /etc/postfix/./ldap/virtual_alias_domains.cf
+2025-08-07T18:48:01.216089+05:00 mail postfix/postfix-script[3445]: warning: not owned by root: /etc/postfix/./ldap/virtual_uid_maps.cf
+2025-08-07T18:48:01.345340+05:00 mail postfix/postfix-script[3628]: starting the Postfix mail system
+2025-08-07T18:48:01.351821+05:00 mail postfix/master[3630]: daemon started -- version 3.7.11, configuration /etc/postfix
+2025-08-07T18:48:04.148845+05:00 mail postfix/pickup[3631]: 2440D23F9D7: uid=0 from=<root>
+2025-08-07T18:48:04.160583+05:00 mail postfix/cleanup[3638]: 2440D23F9D7: message-id=<20250807134804.2440D23F9D7@mail.dmz.nomad.kz>
+2025-08-07T18:48:04.169485+05:00 mail postfix/qmgr[3632]: 2440D23F9D7: from=<root@mail.dmz.nomad.kz>, size=422, nrcpt=1 (queue active)
+2025-08-07T18:48:04.194693+05:00 mail postfix/virtual[3640]: 2440D23F9D7: to=<mail000@mail.dmz.nomad.kz>, relay=virtual, delay=0.06, delays=0.03/0.02/0/0.01, dsn=2.0.0, status=sent (delivered to maildir)
+2025-08-07T18:48:04.194909+05:00 mail postfix/qmgr[3632]: 2440D23F9D7: removed
+2025-08-08T12:35:17.912031+05:00 mail dovecot: master: Dovecot v2.3.19.1 (9b53102964) starting up for imap (core dumps disabled)
+2025-08-08T12:35:19.617567+05:00 mail postfix/postfix-script[971]: warning: not owned by root: /etc/postfix/./ldap
+2025-08-08T12:35:19.621712+05:00 mail postfix/postfix-script[972]: warning: not owned by root: /etc/postfix/./ldap/smtpd_sender_login_maps.cf
+2025-08-08T12:35:19.627040+05:00 mail postfix/postfix-script[973]: warning: not owned by root: /etc/postfix/./ldap/virtual_mailbox_maps.cf
+2025-08-08T12:35:19.631711+05:00 mail postfix/postfix-script[974]: warning: not owned by root: /etc/postfix/./ldap/virtual_alias_domains.cf
+2025-08-08T12:35:19.636471+05:00 mail postfix/postfix-script[975]: warning: not owned by root: /etc/postfix/./ldap/virtual_uid_maps.cf
+2025-08-08T12:35:19.797559+05:00 mail postfix/postfix-script[1158]: starting the Postfix mail system
+2025-08-08T12:35:19.806905+05:00 mail postfix/master[1160]: daemon started -- version 3.7.11, configuration /etc/postfix
+2025-08-08T13:10:58.069979+05:00 mail postmulti[1381]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-08T13:10:58.073832+05:00 mail postfix[1382]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-08T13:10:58.087966+05:00 mail postfix/master[1387]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-08T13:10:58.091246+05:00 mail postfix/postlog[1388]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-08T13:10:58.091763+05:00 mail postfix/postfix-script[1388]: refreshing the Postfix mail system
+2025-08-08T13:10:58.095239+05:00 mail postfix/postsuper[1389]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-08T13:10:58.097663+05:00 mail postfix/master[1160]: reload -- version 3.7.11, configuration /etc/postfix
+2025-08-08T13:10:58.097718+05:00 mail postfix/master[1160]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-08T13:10:58.119417+05:00 mail postfix/postsuper[1391]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-08T13:10:58.119617+05:00 mail postfix/pickup[1393]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-08T13:10:58.119847+05:00 mail postfix/qmgr[1394]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-08T13:12:05.302009+05:00 mail dovecot: master: Warning: Killed with signal 15 (by pid=1738 uid=0 code=kill)
+2025-08-08T13:12:06.448846+05:00 mail dovecot: master: Dovecot v2.3.19.1 (9b53102964) starting up for imap (core dumps disabled)
+2025-08-08T13:37:08.389450+05:00 mail postfix/smtpd[2089]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-08T13:37:08.395300+05:00 mail postfix/proxymap[2093]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-08T13:37:08.419951+05:00 mail postfix/tlsmgr[2094]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-08T13:37:08.428196+05:00 mail postfix/smtpd[2089]: connect from mail.dmz.nomad.kz[10.1.20.10]
+2025-08-08T13:37:08.432315+05:00 mail postfix/anvil[2095]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-08T13:37:08.441869+05:00 mail postfix/smtpd[2089]: Anonymous TLS connection established from mail.dmz.nomad.kz[10.1.20.10]: TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits) key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256
+2025-08-08T13:37:08.441954+05:00 mail postfix/smtpd[2089]: warning: SASL: Connect to Dovecot auth socket 'private/auth' failed: No such file or directory
+2025-08-08T13:37:08.441985+05:00 mail postfix/smtpd[2089]: fatal: no SASL authentication mechanisms
+2025-08-08T13:37:09.444323+05:00 mail postfix/master[1160]: warning: process /usr/lib/postfix/sbin/smtpd pid 2089 exit status 1
+2025-08-08T13:37:09.444445+05:00 mail postfix/master[1160]: warning: /usr/lib/postfix/sbin/smtpd: bad command startup -- throttling
+2025-08-08T13:38:09.512468+05:00 mail postfix/smtpd[2098]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-08T13:38:09.521607+05:00 mail postfix/smtpd[2098]: connect from mail.dmz.nomad.kz[10.1.20.10]
+2025-08-08T13:38:09.545263+05:00 mail postfix/smtpd[2098]: Anonymous TLS connection established from mail.dmz.nomad.kz[10.1.20.10]: TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits) key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256
+2025-08-08T13:38:09.545502+05:00 mail postfix/smtpd[2098]: warning: SASL: Connect to Dovecot auth socket 'private/auth' failed: No such file or directory
+2025-08-08T13:38:09.545588+05:00 mail postfix/smtpd[2098]: fatal: no SASL authentication mechanisms
+2025-08-08T13:38:10.547782+05:00 mail postfix/master[1160]: warning: process /usr/lib/postfix/sbin/smtpd pid 2098 exit status 1
+2025-08-08T13:38:10.547882+05:00 mail postfix/master[1160]: warning: /usr/lib/postfix/sbin/smtpd: bad command startup -- throttling
+2025-08-08T13:38:27.286668+05:00 mail postfix/smtpd[2100]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-08T13:38:27.296163+05:00 mail postfix/submission/smtpd[2100]: connect from mail.dmz.nomad.kz[10.1.20.10]
+2025-08-08T13:38:27.306372+05:00 mail postfix/submission/smtpd[2100]: Anonymous TLS connection established from mail.dmz.nomad.kz[10.1.20.10]: TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits) key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256
+2025-08-08T13:38:27.306451+05:00 mail postfix/submission/smtpd[2100]: warning: SASL: Connect to Dovecot auth socket 'private/auth' failed: No such file or directory
+2025-08-08T13:38:27.306474+05:00 mail postfix/submission/smtpd[2100]: fatal: no SASL authentication mechanisms
+2025-08-08T13:38:28.308477+05:00 mail postfix/master[1160]: warning: process /usr/lib/postfix/sbin/smtpd pid 2100 exit status 1
+2025-08-08T13:38:28.308582+05:00 mail postfix/master[1160]: warning: /usr/lib/postfix/sbin/smtpd: bad command startup -- throttling
+2025-08-08T13:39:22.895592+05:00 mail postfix/smtpd[2104]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-08T13:39:22.904612+05:00 mail postfix/smtpd[2104]: connect from mail.dmz.nomad.kz[10.1.20.10]
+2025-08-08T13:39:22.912806+05:00 mail postfix/smtpd[2104]: Anonymous TLS connection established from mail.dmz.nomad.kz[10.1.20.10]: TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits) key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256
+2025-08-08T13:39:22.913040+05:00 mail postfix/smtpd[2104]: warning: SASL: Connect to Dovecot auth socket 'private/auth' failed: No such file or directory
+2025-08-08T13:39:22.913156+05:00 mail postfix/smtpd[2104]: fatal: no SASL authentication mechanisms
+2025-08-08T13:39:23.917559+05:00 mail postfix/master[1160]: warning: process /usr/lib/postfix/sbin/smtpd pid 2104 exit status 1
+2025-08-08T13:39:23.917654+05:00 mail postfix/master[1160]: warning: /usr/lib/postfix/sbin/smtpd: bad command startup -- throttling
+2025-08-08T13:40:23.985416+05:00 mail postfix/smtpd[2134]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-08T13:40:23.994474+05:00 mail postfix/smtpd[2134]: connect from mail.dmz.nomad.kz[10.1.20.10]
+2025-08-08T13:40:23.999210+05:00 mail postfix/smtpd[2135]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-08T13:40:24.007834+05:00 mail postfix/smtpd[2135]: connect from mail.dmz.nomad.kz[10.1.20.10]
+2025-08-08T13:40:24.012612+05:00 mail postfix/smtpd[2136]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-08T13:40:24.021166+05:00 mail postfix/smtpd[2136]: connect from mail.dmz.nomad.kz[10.1.20.10]
+2025-08-08T13:40:24.025535+05:00 mail postfix/smtpd[2136]: Anonymous TLS connection established from mail.dmz.nomad.kz[10.1.20.10]: TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits) key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256
+2025-08-08T13:40:24.025686+05:00 mail postfix/smtpd[2136]: warning: SASL: Connect to Dovecot auth socket 'private/auth' failed: No such file or directory
+2025-08-08T13:40:24.025772+05:00 mail postfix/smtpd[2136]: fatal: no SASL authentication mechanisms
+2025-08-08T13:40:25.028340+05:00 mail postfix/master[1160]: warning: process /usr/lib/postfix/sbin/smtpd pid 2136 exit status 1
+2025-08-08T13:40:25.028437+05:00 mail postfix/master[1160]: warning: /usr/lib/postfix/sbin/smtpd: bad command startup -- throttling
+2025-08-11T16:33:15.971691+05:00 mail postmulti[935]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T16:33:15.991789+05:00 mail postfix[936]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T16:33:16.029155+05:00 mail postfix/master[941]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T16:33:16.341341+05:00 mail postfix/postsuper[976]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T16:33:16.405019+05:00 mail postfix/postlog[989]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T16:33:16.406000+05:00 mail postfix/postfix-script[989]: warning: not owned by root: /etc/postfix/./ldap
+2025-08-11T16:33:16.410400+05:00 mail postfix/postlog[990]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T16:33:16.411264+05:00 mail postfix/postfix-script[990]: warning: not owned by root: /etc/postfix/./ldap/smtpd_sender_login_maps.cf
+2025-08-11T16:33:16.416891+05:00 mail postfix/postlog[991]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T16:33:16.417708+05:00 mail postfix/postfix-script[991]: warning: not owned by root: /etc/postfix/./ldap/virtual_mailbox_maps.cf
+2025-08-11T16:33:16.423688+05:00 mail postfix/postlog[992]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T16:33:16.424594+05:00 mail postfix/postfix-script[992]: warning: not owned by root: /etc/postfix/./ldap/virtual_alias_domains.cf
+2025-08-11T16:33:16.429805+05:00 mail postfix/postlog[993]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T16:33:16.430722+05:00 mail postfix/postfix-script[993]: warning: not owned by root: /etc/postfix/./ldap/virtual_uid_maps.cf
+2025-08-11T16:33:16.609369+05:00 mail postfix/postlog[1176]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T16:33:16.610373+05:00 mail postfix/postfix-script[1176]: starting the Postfix mail system
+2025-08-11T16:33:16.614920+05:00 mail postfix/master[1178]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T16:33:16.618550+05:00 mail postfix/master[1178]: daemon started -- version 3.7.11, configuration /etc/postfix
+2025-08-11T16:33:16.635552+05:00 mail postfix/qmgr[1180]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T16:33:16.636101+05:00 mail postfix/pickup[1179]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T16:34:35.036166+05:00 mail postfix/smtpd[1211]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T16:34:35.042020+05:00 mail postfix/proxymap[1212]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T16:34:35.087187+05:00 mail postfix/tlsmgr[1215]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T16:34:35.100801+05:00 mail postfix/smtpd[1211]: connect from localhost[127.0.0.1]
+2025-08-11T16:34:35.113609+05:00 mail postfix/smtpd[1211]: Anonymous TLS connection established from localhost[127.0.0.1]: TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits) key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256
+2025-08-11T16:34:35.113711+05:00 mail postfix/smtpd[1211]: warning: SASL: Connect to Dovecot auth socket 'private/auth' failed: No such file or directory
+2025-08-11T16:34:35.113751+05:00 mail postfix/smtpd[1211]: fatal: no SASL authentication mechanisms
+2025-08-11T16:34:36.116407+05:00 mail postfix/master[1178]: warning: process /usr/lib/postfix/sbin/smtpd pid 1211 exit status 1
+2025-08-11T16:34:36.116505+05:00 mail postfix/master[1178]: warning: /usr/lib/postfix/sbin/smtpd: bad command startup -- throttling
+2025-08-11T16:46:10.548468+05:00 mail postfix/smtpd[1300]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T16:46:10.553951+05:00 mail postfix/proxymap[1301]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T16:46:10.567819+05:00 mail postfix/smtpd[1300]: connect from localhost[127.0.0.1]
+2025-08-11T16:46:10.578034+05:00 mail postfix/smtpd[1300]: Anonymous TLS connection established from localhost[127.0.0.1]: TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits) key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256
+2025-08-11T16:46:10.578106+05:00 mail postfix/smtpd[1300]: warning: SASL: Connect to Dovecot auth socket 'private/auth' failed: No such file or directory
+2025-08-11T16:46:10.578131+05:00 mail postfix/smtpd[1300]: fatal: no SASL authentication mechanisms
+2025-08-11T16:46:11.580469+05:00 mail postfix/master[1178]: warning: process /usr/lib/postfix/sbin/smtpd pid 1300 exit status 1
+2025-08-11T16:46:11.580689+05:00 mail postfix/master[1178]: warning: /usr/lib/postfix/sbin/smtpd: bad command startup -- throttling
+2025-08-11T16:49:42.152018+05:00 mail dovecot: master: Dovecot v2.3.19.1 (9b53102964) starting up for imap (core dumps disabled)
+2025-08-11T16:49:42.166427+05:00 mail dovecot: config: Warning: NOTE: You can get a new clean config file with: doveconf -Pn > dovecot-new.conf
+2025-08-11T16:49:42.166693+05:00 mail dovecot: config: Warning: Obsolete setting in /etc/dovecot/conf.d/10-ssl.conf:89: ssl_dh_parameters_length is no longer needed
+2025-08-11T16:49:42.166791+05:00 mail dovecot: config: Warning: Obsolete setting in /etc/dovecot/conf.d/10-ssl.conf:90: ssl_protocols has been replaced by ssl_min_protocol
+2025-08-11T16:49:42.166896+05:00 mail dovecot: config: Error: Could not find a minimum ssl_min_protocol setting from ssl_protocols = !SSLv2 !SSLv3: Unrecognized protocol 'SSLv2'
+2025-08-11T16:49:42.180159+05:00 mail dovecot: auth: Fatal: LDAP /etc/dovecot/dovecot-ldap.conf.ext: No uris or hosts set
+2025-08-11T16:49:42.181326+05:00 mail dovecot: master: Error: service(auth): command startup failed, throttling for 2.000 secs
+2025-08-11T16:49:47.210418+05:00 mail dovecot: auth: Fatal: LDAP /etc/dovecot/dovecot-ldap.conf.ext: No uris or hosts set
+2025-08-11T16:49:47.211273+05:00 mail dovecot: master: Error: service(auth): command startup failed, throttling for 4.000 secs
+2025-08-11T16:49:52.223654+05:00 mail dovecot: auth: Fatal: LDAP /etc/dovecot/dovecot-ldap.conf.ext: No uris or hosts set
+2025-08-11T16:49:52.224832+05:00 mail dovecot: master: Error: service(auth): command startup failed, throttling for 8.000 secs
+2025-08-11T16:50:00.239936+05:00 mail dovecot: auth: Fatal: LDAP /etc/dovecot/dovecot-ldap.conf.ext: No uris or hosts set
+2025-08-11T16:50:00.240853+05:00 mail dovecot: master: Error: service(auth): command startup failed, throttling for 16.000 secs
+2025-08-11T16:50:07.717414+05:00 mail postfix/smtpd[1472]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T16:50:07.721364+05:00 mail postfix/proxymap[1473]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T16:50:07.730853+05:00 mail postfix/smtpd[1472]: connect from localhost[127.0.0.1]
+2025-08-11T16:50:07.736397+05:00 mail postfix/smtpd[1472]: Anonymous TLS connection established from localhost[127.0.0.1]: TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits) key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256
+2025-08-11T16:50:16.269144+05:00 mail dovecot: auth: Fatal: LDAP /etc/dovecot/dovecot-ldap.conf.ext: No uris or hosts set
+2025-08-11T16:50:16.269856+05:00 mail dovecot: master: Error: service(auth): command startup failed, throttling for 32.000 secs
+2025-08-11T16:50:16.270154+05:00 mail postfix/smtpd[1472]: fatal: no SASL authentication mechanisms
+2025-08-11T16:50:17.273841+05:00 mail postfix/master[1178]: warning: process /usr/lib/postfix/sbin/smtpd pid 1472 exit status 1
+2025-08-11T16:50:17.274081+05:00 mail postfix/master[1178]: warning: /usr/lib/postfix/sbin/smtpd: bad command startup -- throttling
+2025-08-11T16:50:46.294780+05:00 mail dovecot: imap-login: Error: auth-client: conn unix:login (pid=1443,uid=0): Timeout waiting for handshake from auth server. my pid=1444, input bytes=0
+2025-08-11T16:50:48.286444+05:00 mail dovecot: auth: Fatal: LDAP /etc/dovecot/dovecot-ldap.conf.ext: No uris or hosts set
+2025-08-11T16:50:48.287877+05:00 mail dovecot: master: Error: service(auth): command startup failed, throttling for 60.000 secs
+2025-08-11T16:51:21.322763+05:00 mail dovecot: imap-login: Error: auth-client: conn unix:login (pid=1443,uid=0): Timeout waiting for handshake from auth server. my pid=1444, input bytes=0
+2025-08-11T16:51:48.355062+05:00 mail dovecot: auth: Fatal: LDAP /etc/dovecot/dovecot-ldap.conf.ext: No uris or hosts set
+2025-08-11T16:51:48.356106+05:00 mail dovecot: master: Error: service(auth): command startup failed, throttling for 60.000 secs
+2025-08-11T16:52:18.387257+05:00 mail dovecot: imap-login: Error: auth-client: conn unix:login (pid=1443,uid=0): Timeout waiting for handshake from auth server. my pid=1444, input bytes=0
+2025-08-11T16:52:48.393503+05:00 mail dovecot: auth: Fatal: LDAP /etc/dovecot/dovecot-ldap.conf.ext: No uris or hosts set
+2025-08-11T16:52:48.394559+05:00 mail dovecot: master: Error: service(auth): command startup failed, throttling for 60.000 secs
+2025-08-11T16:52:48.394618+05:00 mail dovecot: imap-login: Error: auth-client: conn unix:login (pid=1443,uid=0): Timeout waiting for handshake from auth server. my pid=1444, input bytes=0
+2025-08-11T16:53:18.410121+05:00 mail dovecot: imap-login: Error: auth-client: conn unix:login (pid=1443,uid=0): Timeout waiting for handshake from auth server. my pid=1444, input bytes=0
+2025-08-11T16:53:48.429564+05:00 mail dovecot: imap-login: Error: auth-client: conn unix:login (pid=1443,uid=0): Timeout waiting for handshake from auth server. my pid=1444, input bytes=0
+2025-08-11T16:53:48.461015+05:00 mail dovecot: auth: Fatal: LDAP /etc/dovecot/dovecot-ldap.conf.ext: No uris or hosts set
+2025-08-11T16:53:48.461255+05:00 mail dovecot: master: Error: service(auth): command startup failed, throttling for 60.000 secs
+2025-08-11T16:54:23.494147+05:00 mail dovecot: imap-login: Error: auth-client: conn unix:login (pid=1443,uid=0): Timeout waiting for handshake from auth server. my pid=1444, input bytes=0
+2025-08-11T16:54:48.524549+05:00 mail dovecot: auth: Fatal: LDAP /etc/dovecot/dovecot-ldap.conf.ext: No uris or hosts set
+2025-08-11T16:54:48.525883+05:00 mail dovecot: master: Error: service(auth): command startup failed, throttling for 60.000 secs
+2025-08-11T16:55:18.550786+05:00 mail dovecot: imap-login: Error: auth-client: conn unix:login (pid=1443,uid=0): Timeout waiting for handshake from auth server. my pid=1444, input bytes=0
+2025-08-11T16:55:48.581339+05:00 mail dovecot: imap-login: Error: auth-client: conn unix:login (pid=1443,uid=0): Timeout waiting for handshake from auth server. my pid=1444, input bytes=0
+2025-08-11T16:55:48.589032+05:00 mail dovecot: auth: Fatal: LDAP /etc/dovecot/dovecot-ldap.conf.ext: No uris or hosts set
+2025-08-11T16:55:48.589954+05:00 mail dovecot: master: Error: service(auth): command startup failed, throttling for 60.000 secs
+2025-08-11T16:56:23.611305+05:00 mail dovecot: imap-login: Error: auth-client: conn unix:login (pid=1443,uid=0): Timeout waiting for handshake from auth server. my pid=1444, input bytes=0
+2025-08-11T16:56:48.630704+05:00 mail dovecot: auth: Fatal: LDAP /etc/dovecot/dovecot-ldap.conf.ext: No uris or hosts set
+2025-08-11T16:56:48.631037+05:00 mail dovecot: master: Error: service(auth): command startup failed, throttling for 60.000 secs
+2025-08-11T16:57:18.662667+05:00 mail dovecot: imap-login: Error: auth-client: conn unix:login (pid=1443,uid=0): Timeout waiting for handshake from auth server. my pid=1444, input bytes=0
+2025-08-11T16:57:48.686304+05:00 mail dovecot: imap-login: Error: auth-client: conn unix:login (pid=1443,uid=0): Timeout waiting for handshake from auth server. my pid=1444, input bytes=0
+2025-08-11T16:57:48.692692+05:00 mail dovecot: auth: Fatal: LDAP /etc/dovecot/dovecot-ldap.conf.ext: No base given
+2025-08-11T16:57:48.693533+05:00 mail dovecot: master: Error: service(auth): command startup failed, throttling for 60.000 secs
+2025-08-11T16:58:23.729692+05:00 mail dovecot: imap-login: Error: auth-client: conn unix:login (pid=1443,uid=0): Timeout waiting for handshake from auth server. my pid=1444, input bytes=0
+2025-08-11T16:58:48.705978+05:00 mail dovecot: auth: Fatal: LDAP /etc/dovecot/dovecot-ldap.conf.ext: No base given
+2025-08-11T16:58:48.706968+05:00 mail dovecot: master: Error: service(auth): command startup failed, throttling for 60.000 secs
+2025-08-11T16:59:18.737988+05:00 mail dovecot: imap-login: Error: auth-client: conn unix:login (pid=1443,uid=0): Timeout waiting for handshake from auth server. my pid=1444, input bytes=0
+2025-08-11T16:59:48.763675+05:00 mail dovecot: imap-login: Error: auth-client: conn unix:login (pid=1443,uid=0): Timeout waiting for handshake from auth server. my pid=1444, input bytes=0
+2025-08-11T17:00:29.654295+05:00 mail dovecot: master: Warning: Killed with signal 15 (by pid=1660 uid=0 code=kill)
+2025-08-11T17:00:30.795539+05:00 mail dovecot: master: Dovecot v2.3.19.1 (9b53102964) starting up for imap (core dumps disabled)
+2025-08-11T17:00:30.807608+05:00 mail dovecot: config: Warning: NOTE: You can get a new clean config file with: doveconf -Pn > dovecot-new.conf
+2025-08-11T17:00:30.807674+05:00 mail dovecot: config: Warning: Obsolete setting in /etc/dovecot/conf.d/10-ssl.conf:89: ssl_dh_parameters_length is no longer needed
+2025-08-11T17:00:30.807697+05:00 mail dovecot: config: Warning: Obsolete setting in /etc/dovecot/conf.d/10-ssl.conf:90: ssl_protocols has been replaced by ssl_min_protocol
+2025-08-11T17:00:30.807719+05:00 mail dovecot: config: Error: Could not find a minimum ssl_min_protocol setting from ssl_protocols = !SSLv2 !SSLv3: Unrecognized protocol 'SSLv2'
+2025-08-11T17:10:08.622550+05:00 mail dovecot: master: Warning: Killed with signal 15 (by pid=2010 uid=0 code=kill)
+2025-08-11T17:12:21.797436+05:00 mail dovecot: master: Dovecot v2.3.19.1 (9b53102964) starting up for imap (core dumps disabled)
+2025-08-11T17:12:47.221083+05:00 mail postfix/smtpd[2066]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T17:12:47.227722+05:00 mail postfix/proxymap[2067]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T17:12:47.238227+05:00 mail postfix/smtpd[2066]: connect from localhost[127.0.0.1]
+2025-08-11T17:12:47.247085+05:00 mail postfix/smtpd[2066]: Anonymous TLS connection established from localhost[127.0.0.1]: TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits) key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256
+2025-08-11T17:16:49.032761+05:00 mail postfix/smtpd[2073]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T17:16:49.046213+05:00 mail postfix/smtpd[2073]: connect from localhost[127.0.0.1]
+2025-08-11T17:16:49.051367+05:00 mail postfix/smtpd[2073]: Anonymous TLS connection established from localhost[127.0.0.1]: TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits) key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256
+2025-08-11T17:17:07.049687+05:00 mail postfix/smtpd[2080]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T17:17:07.063044+05:00 mail postfix/smtpd[2080]: connect from localhost[127.0.0.1]
+2025-08-11T17:17:07.071814+05:00 mail postfix/smtpd[2080]: Anonymous TLS connection established from localhost[127.0.0.1]: TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits) key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256
+2025-08-11T17:17:20.455683+05:00 mail postfix/smtpd[2080]: warning: localhost[127.0.0.1]: SASL PLAIN authentication failed: (reason unavailable), sasl_username=username
+2025-08-11T17:17:25.286721+05:00 mail postfix/smtpd[2083]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T17:17:25.300570+05:00 mail postfix/smtpd[2083]: connect from localhost[127.0.0.1]
+2025-08-11T17:17:25.309899+05:00 mail postfix/smtpd[2083]: Anonymous TLS connection established from localhost[127.0.0.1]: TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits) key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256
+2025-08-11T17:18:04.465693+05:00 mail postfix/smtpd[2083]: warning: localhost[127.0.0.1]: SASL PLAIN authentication failed: (reason unavailable), sasl_username=username
+2025-08-11T17:18:42.439542+05:00 mail postfix/smtpd[2066]: timeout after EHLO from localhost[127.0.0.1]
+2025-08-11T17:18:42.439832+05:00 mail postfix/smtpd[2066]: disconnect from localhost[127.0.0.1] ehlo=2 starttls=1 commands=3
+2025-08-11T17:21:49.139921+05:00 mail postfix/smtpd[2073]: timeout after STARTTLS from localhost[127.0.0.1]
+2025-08-11T17:21:49.140672+05:00 mail postfix/smtpd[2073]: disconnect from localhost[127.0.0.1] ehlo=1 starttls=1 commands=2
+2025-08-11T17:22:20.467267+05:00 mail postfix/smtpd[2080]: timeout after AUTH from localhost[127.0.0.1]
+2025-08-11T17:22:20.467588+05:00 mail postfix/smtpd[2080]: disconnect from localhost[127.0.0.1] ehlo=1 starttls=1 auth=0/1 commands=2/3
+2025-08-11T17:23:04.527440+05:00 mail postfix/smtpd[2083]: timeout after AUTH from localhost[127.0.0.1]
+2025-08-11T17:23:04.527734+05:00 mail postfix/smtpd[2083]: disconnect from localhost[127.0.0.1] ehlo=2 starttls=1 auth=0/1 commands=3/4
+2025-08-11T17:23:14.476710+05:00 mail postfix/smtpd[2073]: connect from localhost[127.0.0.1]
+2025-08-11T17:23:14.486047+05:00 mail postfix/smtpd[2073]: Anonymous TLS connection established from localhost[127.0.0.1]: TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits) key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256
+2025-08-11T17:23:21.031394+05:00 mail postfix/smtpd[2073]: warning: localhost[127.0.0.1]: SASL PLAIN authentication failed: (reason unavailable), sasl_username=test0@hosted-domain.com
+2025-08-11T17:25:27.007695+05:00 mail postfix/smtpd[2095]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T17:25:27.017063+05:00 mail postfix/smtpd[2095]: connect from localhost[127.0.0.1]
+2025-08-11T17:25:27.026697+05:00 mail postfix/smtpd[2095]: Anonymous TLS connection established from localhost[127.0.0.1]: TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits) key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256
+2025-08-11T17:25:33.450791+05:00 mail postfix/smtpd[2095]: warning: localhost[127.0.0.1]: SASL PLAIN authentication failed: (reason unavailable), sasl_username=test0
+2025-08-11T17:28:21.066461+05:00 mail postfix/smtpd[2073]: timeout after AUTH from localhost[127.0.0.1]
+2025-08-11T17:28:21.067233+05:00 mail postfix/smtpd[2073]: disconnect from localhost[127.0.0.1] ehlo=1 starttls=1 auth=0/1 commands=2/3
+2025-08-11T17:30:33.490704+05:00 mail postfix/smtpd[2095]: timeout after AUTH from localhost[127.0.0.1]
+2025-08-11T17:30:33.491031+05:00 mail postfix/smtpd[2095]: disconnect from localhost[127.0.0.1] ehlo=1 starttls=1 auth=0/1 commands=2/3
+2025-08-11T17:42:53.978415+05:00 mail postfix/smtpd[2204]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T17:42:53.982928+05:00 mail postfix/proxymap[2205]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T17:42:53.992604+05:00 mail postfix/smtpd[2204]: connect from mail.dmz.nomad.kz[10.1.20.10]
+2025-08-11T17:42:53.996897+05:00 mail postfix/anvil[2206]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T17:42:54.014039+05:00 mail postfix/smtpd[2204]: Anonymous TLS connection established from mail.dmz.nomad.kz[10.1.20.10]: TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits) key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256
+2025-08-11T17:43:49.017589+05:00 mail postfix/smtpd[2204]: warning: mail.dmz.nomad.kz[10.1.20.10]: SASL PLAIN authentication failed: (reason unavailable), sasl_username=mail00
+2025-08-11T17:48:49.047295+05:00 mail postfix/smtpd[2204]: timeout after AUTH from mail.dmz.nomad.kz[10.1.20.10]
+2025-08-11T17:48:49.048230+05:00 mail postfix/smtpd[2204]: disconnect from mail.dmz.nomad.kz[10.1.20.10] ehlo=2 starttls=1 auth=0/1 commands=3/4
+2025-08-11T17:52:09.146874+05:00 mail postfix/anvil[2206]: statistics: max connection rate 1/60s for (smtp:10.1.20.10) at Aug 11 17:42:53
+2025-08-11T17:52:09.147574+05:00 mail postfix/anvil[2206]: statistics: max connection count 1 for (smtp:10.1.20.10) at Aug 11 17:42:53
+2025-08-11T17:52:09.147649+05:00 mail postfix/anvil[2206]: statistics: max cache size 1 at Aug 11 17:42:53
+2025-08-11T17:55:05.785119+05:00 mail postfix/smtpd[2333]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T17:55:05.789356+05:00 mail postfix/proxymap[2334]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T17:55:05.799146+05:00 mail postfix/smtpd[2333]: connect from mail.dmz.nomad.kz[10.1.20.10]
+2025-08-11T17:55:05.802293+05:00 mail postfix/anvil[2335]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T17:55:05.808955+05:00 mail postfix/smtpd[2333]: Anonymous TLS connection established from mail.dmz.nomad.kz[10.1.20.10]: TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits) key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256
+2025-08-11T17:55:19.481237+05:00 mail postfix/smtpd[2333]: warning: mail.dmz.nomad.kz[10.1.20.10]: SASL PLAIN authentication failed: (reason unavailable), sasl_username=(unavailable)
+2025-08-11T18:00:06.286108+05:00 mail postfix/smtpd[2333]: warning: mail.dmz.nomad.kz[10.1.20.10]: SASL PLAIN authentication failed: (reason unavailable), sasl_username=(unavailable)
+2025-08-11T18:05:05.891198+05:00 mail postfix/anvil[2335]: statistics: max connection rate 1/60s for (smtp:10.1.20.10) at Aug 11 17:55:05
+2025-08-11T18:05:05.891542+05:00 mail postfix/anvil[2335]: statistics: max connection count 1 for (smtp:10.1.20.10) at Aug 11 17:55:05
+2025-08-11T18:05:05.891638+05:00 mail postfix/anvil[2335]: statistics: max cache size 1 at Aug 11 17:55:05
+2025-08-11T18:05:06.387132+05:00 mail postfix/smtpd[2333]: timeout after AUTH from mail.dmz.nomad.kz[10.1.20.10]
+2025-08-11T18:05:06.390038+05:00 mail postfix/smtpd[2333]: disconnect from mail.dmz.nomad.kz[10.1.20.10] ehlo=1 starttls=1 auth=0/2 commands=2/4
+2025-08-11T18:09:51.080487+05:00 mail postfix/smtpd[2387]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T18:09:51.084476+05:00 mail postfix/proxymap[2388]: warning: /etc/postfix/main.cf, line 63: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T18:09:51.093594+05:00 mail postfix/smtpd[2387]: connect from localhost[127.0.0.1]
+2025-08-11T18:09:51.103371+05:00 mail postfix/smtpd[2387]: Anonymous TLS connection established from localhost[127.0.0.1]: TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits) key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256
+2025-08-11T18:12:18.975716+05:00 mail dovecot: master: Warning: Killed with signal 15 (by pid=2451 uid=0 code=kill)
+2025-08-11T18:12:20.082415+05:00 mail dovecot: anvil: Warning: Killed with signal 15 (by pid=1 uid=0 code=kill)
+2025-08-11T18:12:20.082514+05:00 mail dovecot: stats: Warning: Killed with signal 15 (by pid=1 uid=0 code=kill)
+2025-08-11T18:12:20.082553+05:00 mail dovecot: log(2059): Warning: Killed with signal 15 (by pid=1 uid=0 code=kill)
+2025-08-11T18:12:20.082582+05:00 mail dovecot: log(2059): Warning: Shutting down logging for 'anvil: ' with 1 clients
+2025-08-11T18:12:20.082613+05:00 mail dovecot: log(2059): Warning: Shutting down logging for 'stats: ' with 1 clients
+2025-08-11T18:12:20.120606+05:00 mail dovecot: master: Dovecot v2.3.19.1 (9b53102964) starting up for imap (core dumps disabled)
+2025-08-11T18:12:24.869821+05:00 mail postmulti[2479]: warning: /etc/postfix/main.cf, line 62: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T18:12:24.873786+05:00 mail postfix[2480]: warning: /etc/postfix/main.cf, line 62: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T18:12:24.889330+05:00 mail postfix/master[2485]: warning: /etc/postfix/main.cf, line 62: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T18:12:24.893332+05:00 mail postfix/postlog[2486]: warning: /etc/postfix/main.cf, line 62: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T18:12:24.893902+05:00 mail postfix/postfix-script[2486]: stopping the Postfix mail system
+2025-08-11T18:12:24.897405+05:00 mail postfix/master[1178]: terminating on signal 15
+2025-08-11T18:12:24.899542+05:00 mail postfix/master[2488]: warning: /etc/postfix/main.cf, line 62: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T18:12:25.049421+05:00 mail postmulti[2550]: warning: /etc/postfix/main.cf, line 62: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T18:12:25.052891+05:00 mail postfix[2551]: warning: /etc/postfix/main.cf, line 62: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T18:12:25.067916+05:00 mail postfix/master[2556]: warning: /etc/postfix/main.cf, line 62: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T18:12:25.205978+05:00 mail postfix/postsuper[2591]: warning: /etc/postfix/main.cf, line 62: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T18:12:25.225688+05:00 mail postfix/postlog[2604]: warning: /etc/postfix/main.cf, line 62: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T18:12:25.227918+05:00 mail postfix/postfix-script[2604]: warning: not owned by root: /etc/postfix/./ldap
+2025-08-11T18:12:25.231272+05:00 mail postfix/postlog[2605]: warning: /etc/postfix/main.cf, line 62: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T18:12:25.231826+05:00 mail postfix/postfix-script[2605]: warning: not owned by root: /etc/postfix/./ldap/smtpd_sender_login_maps.cf
+2025-08-11T18:12:25.234945+05:00 mail postfix/postlog[2606]: warning: /etc/postfix/main.cf, line 62: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T18:12:25.235478+05:00 mail postfix/postfix-script[2606]: warning: not owned by root: /etc/postfix/./ldap/virtual_mailbox_maps.cf
+2025-08-11T18:12:25.238855+05:00 mail postfix/postlog[2607]: warning: /etc/postfix/main.cf, line 62: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T18:12:25.239384+05:00 mail postfix/postfix-script[2607]: warning: not owned by root: /etc/postfix/./ldap/virtual_alias_domains.cf
+2025-08-11T18:12:25.242331+05:00 mail postfix/postlog[2608]: warning: /etc/postfix/main.cf, line 62: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T18:12:25.242868+05:00 mail postfix/postfix-script[2608]: warning: not owned by root: /etc/postfix/./ldap/virtual_uid_maps.cf
+2025-08-11T18:12:25.371976+05:00 mail postfix/postlog[2791]: warning: /etc/postfix/main.cf, line 62: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T18:12:25.372631+05:00 mail postfix/postfix-script[2791]: starting the Postfix mail system
+2025-08-11T18:12:25.376139+05:00 mail postfix/master[2793]: warning: /etc/postfix/main.cf, line 62: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T18:12:25.378377+05:00 mail postfix/master[2793]: daemon started -- version 3.7.11, configuration /etc/postfix
+2025-08-11T18:12:25.386532+05:00 mail postfix/pickup[2794]: warning: /etc/postfix/main.cf, line 62: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T18:12:25.387375+05:00 mail postfix/qmgr[2795]: warning: /etc/postfix/main.cf, line 62: overriding earlier entry: smtp_tls_security_level=may
+2025-08-11T18:14:17.905100+05:00 mail postfix/postfix-script[2862]: stopping the Postfix mail system
+2025-08-11T18:14:17.908284+05:00 mail postfix/master[2793]: terminating on signal 15
+2025-08-11T18:14:18.238552+05:00 mail postfix/postfix-script[2979]: warning: not owned by root: /etc/postfix/./ldap
+2025-08-11T18:14:18.242185+05:00 mail postfix/postfix-script[2980]: warning: not owned by root: /etc/postfix/./ldap/smtpd_sender_login_maps.cf
+2025-08-11T18:14:18.246826+05:00 mail postfix/postfix-script[2981]: warning: not owned by root: /etc/postfix/./ldap/virtual_mailbox_maps.cf
+2025-08-11T18:14:18.250387+05:00 mail postfix/postfix-script[2982]: warning: not owned by root: /etc/postfix/./ldap/virtual_alias_domains.cf
+2025-08-11T18:14:18.253788+05:00 mail postfix/postfix-script[2983]: warning: not owned by root: /etc/postfix/./ldap/virtual_uid_maps.cf
+2025-08-11T18:14:18.377912+05:00 mail postfix/postfix-script[3166]: starting the Postfix mail system
+2025-08-11T18:14:18.383737+05:00 mail postfix/master[3168]: daemon started -- version 3.7.11, configuration /etc/postfix
+2025-08-11T18:14:24.918590+05:00 mail dovecot: master: Warning: Killed with signal 15 (by pid=3205 uid=0 code=kill)
+2025-08-11T18:14:26.127538+05:00 mail dovecot: log(2458): Warning: Killed with signal 15 (by pid=1 uid=0 code=kill)
+2025-08-11T18:14:26.156402+05:00 mail dovecot: master: Dovecot v2.3.19.1 (9b53102964) starting up for imap (core dumps disabled)
+2025-08-11T18:15:13.655294+05:00 mail postfix/smtpd[3219]: connect from mail.dmz.nomad.kz[10.1.20.10]
+2025-08-11T18:15:13.666919+05:00 mail postfix/smtpd[3219]: Anonymous TLS connection established from mail.dmz.nomad.kz[10.1.20.10]: TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits) key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256
+2025-08-11T18:15:53.113574+05:00 mail postfix/smtpd[3219]: warning: mail.dmz.nomad.kz[10.1.20.10]: SASL PLAIN authentication failed: (reason unavailable), sasl_username=(unavailable)
+2025-08-11T18:17:19.611097+05:00 mail postfix/postfix-script[3239]: refreshing the Postfix mail system
+2025-08-11T18:17:19.619281+05:00 mail postfix/master[3168]: reload -- version 3.7.11, configuration /etc/postfix
+2025-08-11T18:17:19.619834+05:00 mail postfix/anvil[3222]: statistics: max connection rate 1/60s for (smtp:10.1.20.10) at Aug 11 18:15:13
+2025-08-11T18:17:19.619917+05:00 mail postfix/anvil[3222]: statistics: max connection count 1 for (smtp:10.1.20.10) at Aug 11 18:15:13
+2025-08-11T18:17:19.619955+05:00 mail postfix/anvil[3222]: statistics: max cache size 1 at Aug 11 18:15:13
